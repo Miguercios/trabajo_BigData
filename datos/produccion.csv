@@ -1,0 +1,1744 @@
+strucpro_code,geo_code,crops,strucpro,geo,time,values
+AR,AL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Albania,2020,0
+AR,AT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Austria,2020,0
+AR,BA,Artichokes,Area (cultivation/harvested/production) (1000 ha),Bosnia and Herzegovina,2020,0
+AR,BE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Belgium,2020,0
+AR,BG,Artichokes,Area (cultivation/harvested/production) (1000 ha),Bulgaria,2020,0
+AR,CZ,Artichokes,Area (cultivation/harvested/production) (1000 ha),Czechia,2020,0
+AR,DE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Germany (until 1990 former territory of the FRG),2020,0
+AR,DK,Artichokes,Area (cultivation/harvested/production) (1000 ha),Denmark,2020,0
+AR,EE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Estonia,2020,0
+AR,FI,Artichokes,Area (cultivation/harvested/production) (1000 ha),Finland,2020,0
+AR,HR,Artichokes,Area (cultivation/harvested/production) (1000 ha),Croatia,2020,0
+AR,HU,Artichokes,Area (cultivation/harvested/production) (1000 ha),Hungary,2020,0
+AR,IE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Ireland,2020,0
+AR,IS,Artichokes,Area (cultivation/harvested/production) (1000 ha),Iceland,2020,0
+AR,LT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Lithuania,2020,0
+AR,LU,Artichokes,Area (cultivation/harvested/production) (1000 ha),Luxembourg,2020,0
+AR,LV,Artichokes,Area (cultivation/harvested/production) (1000 ha),Latvia,2020,0
+AR,ME,Artichokes,Area (cultivation/harvested/production) (1000 ha),Montenegro,2020,0
+AR,MK,Artichokes,Area (cultivation/harvested/production) (1000 ha),North Macedonia,2020,0
+AR,MT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Malta,2020,0
+AR,NL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Netherlands,2020,0
+AR,NO,Artichokes,Area (cultivation/harvested/production) (1000 ha),Norway,2020,0
+AR,PL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Poland,2020,0
+AR,RO,Artichokes,Area (cultivation/harvested/production) (1000 ha),Romania,2020,0
+AR,SI,Artichokes,Area (cultivation/harvested/production) (1000 ha),Slovenia,2020,0
+AR,SK,Artichokes,Area (cultivation/harvested/production) (1000 ha),Slovakia,2020,0
+AR,UK,Artichokes,Area (cultivation/harvested/production) (1000 ha),United Kingdom,2020,0
+PR_HU_EU,AL,Artichokes,Harvested production in EU standard humidity (1000 t),Albania,2020,0
+PR_HU_EU,AT,Artichokes,Harvested production in EU standard humidity (1000 t),Austria,2020,0
+PR_HU_EU,BA,Artichokes,Harvested production in EU standard humidity (1000 t),Bosnia and Herzegovina,2020,0
+PR_HU_EU,BE,Artichokes,Harvested production in EU standard humidity (1000 t),Belgium,2020,0
+PR_HU_EU,BG,Artichokes,Harvested production in EU standard humidity (1000 t),Bulgaria,2020,0
+PR_HU_EU,CZ,Artichokes,Harvested production in EU standard humidity (1000 t),Czechia,2020,0
+PR_HU_EU,DE,Artichokes,Harvested production in EU standard humidity (1000 t),Germany (until 1990 former territory of the FRG),2020,0
+PR_HU_EU,DK,Artichokes,Harvested production in EU standard humidity (1000 t),Denmark,2020,0
+PR_HU_EU,EE,Artichokes,Harvested production in EU standard humidity (1000 t),Estonia,2020,0
+PR_HU_EU,FI,Artichokes,Harvested production in EU standard humidity (1000 t),Finland,2020,0
+PR_HU_EU,HR,Artichokes,Harvested production in EU standard humidity (1000 t),Croatia,2020,0
+PR_HU_EU,HU,Artichokes,Harvested production in EU standard humidity (1000 t),Hungary,2020,0
+PR_HU_EU,IE,Artichokes,Harvested production in EU standard humidity (1000 t),Ireland,2020,0
+PR_HU_EU,IS,Artichokes,Harvested production in EU standard humidity (1000 t),Iceland,2020,0
+PR_HU_EU,LT,Artichokes,Harvested production in EU standard humidity (1000 t),Lithuania,2020,0
+PR_HU_EU,LU,Artichokes,Harvested production in EU standard humidity (1000 t),Luxembourg,2020,0
+PR_HU_EU,LV,Artichokes,Harvested production in EU standard humidity (1000 t),Latvia,2020,0
+PR_HU_EU,ME,Artichokes,Harvested production in EU standard humidity (1000 t),Montenegro,2020,0
+PR_HU_EU,MK,Artichokes,Harvested production in EU standard humidity (1000 t),North Macedonia,2020,0
+PR_HU_EU,MT,Artichokes,Harvested production in EU standard humidity (1000 t),Malta,2020,0
+PR_HU_EU,NL,Artichokes,Harvested production in EU standard humidity (1000 t),Netherlands,2020,0
+PR_HU_EU,NO,Artichokes,Harvested production in EU standard humidity (1000 t),Norway,2020,0
+PR_HU_EU,PL,Artichokes,Harvested production in EU standard humidity (1000 t),Poland,2020,0
+PR_HU_EU,RO,Artichokes,Harvested production in EU standard humidity (1000 t),Romania,2020,0
+PR_HU_EU,SI,Artichokes,Harvested production in EU standard humidity (1000 t),Slovenia,2020,0
+PR_HU_EU,SK,Artichokes,Harvested production in EU standard humidity (1000 t),Slovakia,2020,0
+PR_HU_EU,UK,Artichokes,Harvested production in EU standard humidity (1000 t),United Kingdom,2020,0
+AR,AL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Albania,2019,0
+AR,AT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Austria,2019,0
+AR,BA,Artichokes,Area (cultivation/harvested/production) (1000 ha),Bosnia and Herzegovina,2019,0
+AR,BE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Belgium,2019,0
+AR,BG,Artichokes,Area (cultivation/harvested/production) (1000 ha),Bulgaria,2019,0.28
+AR,CH,Artichokes,Area (cultivation/harvested/production) (1000 ha),Switzerland,2019,0
+AR,CY,Artichokes,Area (cultivation/harvested/production) (1000 ha),Cyprus,2019,0.06
+AR,CZ,Artichokes,Area (cultivation/harvested/production) (1000 ha),Czechia,2019,0
+AR,DE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Germany (until 1990 former territory of the FRG),2019,0
+AR,DK,Artichokes,Area (cultivation/harvested/production) (1000 ha),Denmark,2019,0
+AR,EE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Estonia,2019,0
+AR,EL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Greece,2019,0.97
+AR,ES,Artichokes,Area (cultivation/harvested/production) (1000 ha),Spain,2019,14.49
+AR,EU,Artichokes,Area (cultivation/harvested/production) (1000 ha),"European Union (EU6-1958, EU9-1973, EU10-1981, EU12-1986, EU15-1995, EU25-2004, EU27-2007, EU28-2013, EU27-2020)",2019,60.69
+AR,EU27_2020,Artichokes,Area (cultivation/harvested/production) (1000 ha),European Union - 27 countries (from 2020),2019,60.69
+AR,EU28,Artichokes,Area (cultivation/harvested/production) (1000 ha),European Union - 28 countries (2013-2020),2019,60.69
+AR,FI,Artichokes,Area (cultivation/harvested/production) (1000 ha),Finland,2019,0
+AR,FR,Artichokes,Area (cultivation/harvested/production) (1000 ha),France,2019,5.46
+AR,HR,Artichokes,Area (cultivation/harvested/production) (1000 ha),Croatia,2019,0
+AR,HU,Artichokes,Area (cultivation/harvested/production) (1000 ha),Hungary,2019,0.01
+AR,IE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Ireland,2019,0
+AR,IS,Artichokes,Area (cultivation/harvested/production) (1000 ha),Iceland,2019,0
+AR,IT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Italy,2019,39.42
+AR,LT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Lithuania,2019,0
+AR,LU,Artichokes,Area (cultivation/harvested/production) (1000 ha),Luxembourg,2019,0
+AR,LV,Artichokes,Area (cultivation/harvested/production) (1000 ha),Latvia,2019,0
+AR,ME,Artichokes,Area (cultivation/harvested/production) (1000 ha),Montenegro,2019,0
+AR,MK,Artichokes,Area (cultivation/harvested/production) (1000 ha),North Macedonia,2019,0
+AR,MT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Malta,2019,0
+AR,NL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Netherlands,2019,0
+AR,NO,Artichokes,Area (cultivation/harvested/production) (1000 ha),Norway,2019,0
+AR,PL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Poland,2019,0
+AR,PT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Portugal,2019,0
+AR,RO,Artichokes,Area (cultivation/harvested/production) (1000 ha),Romania,2019,0
+AR,RS,Artichokes,Area (cultivation/harvested/production) (1000 ha),Serbia,2019,0
+AR,SE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Sweden,2019,0
+AR,SI,Artichokes,Area (cultivation/harvested/production) (1000 ha),Slovenia,2019,0
+AR,SK,Artichokes,Area (cultivation/harvested/production) (1000 ha),Slovakia,2019,0
+AR,TR,Artichokes,Area (cultivation/harvested/production) (1000 ha),Turkey,2019,3
+AR,UK,Artichokes,Area (cultivation/harvested/production) (1000 ha),United Kingdom,2019,0
+AR,XK,Artichokes,Area (cultivation/harvested/production) (1000 ha),Kosovo (under United Nations Security Council Resolution 1244/99),2019,0
+PR_HU_EU,AL,Artichokes,Harvested production in EU standard humidity (1000 t),Albania,2019,0
+PR_HU_EU,AT,Artichokes,Harvested production in EU standard humidity (1000 t),Austria,2019,0
+PR_HU_EU,BA,Artichokes,Harvested production in EU standard humidity (1000 t),Bosnia and Herzegovina,2019,0
+PR_HU_EU,BE,Artichokes,Harvested production in EU standard humidity (1000 t),Belgium,2019,0
+PR_HU_EU,BG,Artichokes,Harvested production in EU standard humidity (1000 t),Bulgaria,2019,0.18
+PR_HU_EU,CH,Artichokes,Harvested production in EU standard humidity (1000 t),Switzerland,2019,0
+PR_HU_EU,CY,Artichokes,Harvested production in EU standard humidity (1000 t),Cyprus,2019,1.29
+PR_HU_EU,CZ,Artichokes,Harvested production in EU standard humidity (1000 t),Czechia,2019,0
+PR_HU_EU,DE,Artichokes,Harvested production in EU standard humidity (1000 t),Germany (until 1990 former territory of the FRG),2019,0
+PR_HU_EU,DK,Artichokes,Harvested production in EU standard humidity (1000 t),Denmark,2019,0
+PR_HU_EU,EE,Artichokes,Harvested production in EU standard humidity (1000 t),Estonia,2019,0
+PR_HU_EU,EL,Artichokes,Harvested production in EU standard humidity (1000 t),Greece,2019,15.13
+PR_HU_EU,ES,Artichokes,Harvested production in EU standard humidity (1000 t),Spain,2019,199.94
+PR_HU_EU,EU,Artichokes,Harvested production in EU standard humidity (1000 t),"European Union (EU6-1958, EU9-1973, EU10-1981, EU12-1986, EU15-1995, EU25-2004, EU27-2007, EU28-2013, EU27-2020)",2019,634.83
+PR_HU_EU,EU27_2020,Artichokes,Harvested production in EU standard humidity (1000 t),European Union - 27 countries (from 2020),2019,634.83
+PR_HU_EU,EU28,Artichokes,Harvested production in EU standard humidity (1000 t),European Union - 28 countries (2013-2020),2019,634.83
+PR_HU_EU,FI,Artichokes,Harvested production in EU standard humidity (1000 t),Finland,2019,0
+PR_HU_EU,FR,Artichokes,Harvested production in EU standard humidity (1000 t),France,2019,38.03
+PR_HU_EU,HR,Artichokes,Harvested production in EU standard humidity (1000 t),Croatia,2019,0
+PR_HU_EU,HU,Artichokes,Harvested production in EU standard humidity (1000 t),Hungary,2019,0.04
+PR_HU_EU,IE,Artichokes,Harvested production in EU standard humidity (1000 t),Ireland,2019,0
+PR_HU_EU,IS,Artichokes,Harvested production in EU standard humidity (1000 t),Iceland,2019,0
+PR_HU_EU,IT,Artichokes,Harvested production in EU standard humidity (1000 t),Italy,2019,378.82
+PR_HU_EU,LT,Artichokes,Harvested production in EU standard humidity (1000 t),Lithuania,2019,0
+PR_HU_EU,LU,Artichokes,Harvested production in EU standard humidity (1000 t),Luxembourg,2019,0
+PR_HU_EU,LV,Artichokes,Harvested production in EU standard humidity (1000 t),Latvia,2019,0
+PR_HU_EU,ME,Artichokes,Harvested production in EU standard humidity (1000 t),Montenegro,2019,0
+PR_HU_EU,MK,Artichokes,Harvested production in EU standard humidity (1000 t),North Macedonia,2019,0
+PR_HU_EU,MT,Artichokes,Harvested production in EU standard humidity (1000 t),Malta,2019,1.3
+PR_HU_EU,NL,Artichokes,Harvested production in EU standard humidity (1000 t),Netherlands,2019,0
+PR_HU_EU,NO,Artichokes,Harvested production in EU standard humidity (1000 t),Norway,2019,0
+PR_HU_EU,PL,Artichokes,Harvested production in EU standard humidity (1000 t),Poland,2019,0.1
+PR_HU_EU,PT,Artichokes,Harvested production in EU standard humidity (1000 t),Portugal,2019,0
+PR_HU_EU,RO,Artichokes,Harvested production in EU standard humidity (1000 t),Romania,2019,0
+PR_HU_EU,RS,Artichokes,Harvested production in EU standard humidity (1000 t),Serbia,2019,0
+PR_HU_EU,SE,Artichokes,Harvested production in EU standard humidity (1000 t),Sweden,2019,0
+PR_HU_EU,SI,Artichokes,Harvested production in EU standard humidity (1000 t),Slovenia,2019,0
+PR_HU_EU,SK,Artichokes,Harvested production in EU standard humidity (1000 t),Slovakia,2019,0
+PR_HU_EU,TR,Artichokes,Harvested production in EU standard humidity (1000 t),Turkey,2019,39
+PR_HU_EU,UK,Artichokes,Harvested production in EU standard humidity (1000 t),United Kingdom,2019,0
+PR_HU_EU,XK,Artichokes,Harvested production in EU standard humidity (1000 t),Kosovo (under United Nations Security Council Resolution 1244/99),2019,0
+AR,AL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Albania,2018,0
+AR,AT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Austria,2018,0
+AR,BA,Artichokes,Area (cultivation/harvested/production) (1000 ha),Bosnia and Herzegovina,2018,0
+AR,BE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Belgium,2018,0
+AR,BG,Artichokes,Area (cultivation/harvested/production) (1000 ha),Bulgaria,2018,0.17
+AR,CH,Artichokes,Area (cultivation/harvested/production) (1000 ha),Switzerland,2018,0
+AR,CY,Artichokes,Area (cultivation/harvested/production) (1000 ha),Cyprus,2018,0.08
+AR,CZ,Artichokes,Area (cultivation/harvested/production) (1000 ha),Czechia,2018,0
+AR,DE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Germany (until 1990 former territory of the FRG),2018,0
+AR,DK,Artichokes,Area (cultivation/harvested/production) (1000 ha),Denmark,2018,0
+AR,EE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Estonia,2018,0
+AR,EL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Greece,2018,1.11
+AR,ES,Artichokes,Area (cultivation/harvested/production) (1000 ha),Spain,2018,15.58
+AR,EU,Artichokes,Area (cultivation/harvested/production) (1000 ha),"European Union (EU6-1958, EU9-1973, EU10-1981, EU12-1986, EU15-1995, EU25-2004, EU27-2007, EU28-2013, EU27-2020)",2018,62.91
+AR,EU27_2020,Artichokes,Area (cultivation/harvested/production) (1000 ha),European Union - 27 countries (from 2020),2018,62.91
+AR,EU28,Artichokes,Area (cultivation/harvested/production) (1000 ha),European Union - 28 countries (2013-2020),2018,62.91
+AR,FI,Artichokes,Area (cultivation/harvested/production) (1000 ha),Finland,2018,0
+AR,FR,Artichokes,Area (cultivation/harvested/production) (1000 ha),France,2018,6.26
+AR,HR,Artichokes,Area (cultivation/harvested/production) (1000 ha),Croatia,2018,0
+AR,HU,Artichokes,Area (cultivation/harvested/production) (1000 ha),Hungary,2018,0
+AR,IE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Ireland,2018,0
+AR,IS,Artichokes,Area (cultivation/harvested/production) (1000 ha),Iceland,2018,0
+AR,IT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Italy,2018,39.72
+AR,LT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Lithuania,2018,0
+AR,LU,Artichokes,Area (cultivation/harvested/production) (1000 ha),Luxembourg,2018,0
+AR,LV,Artichokes,Area (cultivation/harvested/production) (1000 ha),Latvia,2018,0
+AR,ME,Artichokes,Area (cultivation/harvested/production) (1000 ha),Montenegro,2018,0
+AR,MK,Artichokes,Area (cultivation/harvested/production) (1000 ha),North Macedonia,2018,0
+AR,MT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Malta,2018,0
+AR,NL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Netherlands,2018,0
+AR,NO,Artichokes,Area (cultivation/harvested/production) (1000 ha),Norway,2018,0
+AR,PL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Poland,2018,0
+AR,PT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Portugal,2018,0
+AR,RO,Artichokes,Area (cultivation/harvested/production) (1000 ha),Romania,2018,0
+AR,RS,Artichokes,Area (cultivation/harvested/production) (1000 ha),Serbia,2018,0
+AR,SE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Sweden,2018,0
+AR,SI,Artichokes,Area (cultivation/harvested/production) (1000 ha),Slovenia,2018,0
+AR,SK,Artichokes,Area (cultivation/harvested/production) (1000 ha),Slovakia,2018,0
+AR,TR,Artichokes,Area (cultivation/harvested/production) (1000 ha),Turkey,2018,3
+AR,UK,Artichokes,Area (cultivation/harvested/production) (1000 ha),United Kingdom,2018,0
+AR,XK,Artichokes,Area (cultivation/harvested/production) (1000 ha),Kosovo (under United Nations Security Council Resolution 1244/99),2018,0
+PR_HU_EU,AL,Artichokes,Harvested production in EU standard humidity (1000 t),Albania,2018,0
+PR_HU_EU,AT,Artichokes,Harvested production in EU standard humidity (1000 t),Austria,2018,0
+PR_HU_EU,BA,Artichokes,Harvested production in EU standard humidity (1000 t),Bosnia and Herzegovina,2018,0
+PR_HU_EU,BE,Artichokes,Harvested production in EU standard humidity (1000 t),Belgium,2018,0
+PR_HU_EU,BG,Artichokes,Harvested production in EU standard humidity (1000 t),Bulgaria,2018,0.29
+PR_HU_EU,CH,Artichokes,Harvested production in EU standard humidity (1000 t),Switzerland,2018,0
+PR_HU_EU,CY,Artichokes,Harvested production in EU standard humidity (1000 t),Cyprus,2018,1.72
+PR_HU_EU,CZ,Artichokes,Harvested production in EU standard humidity (1000 t),Czechia,2018,0
+PR_HU_EU,DE,Artichokes,Harvested production in EU standard humidity (1000 t),Germany (until 1990 former territory of the FRG),2018,0
+PR_HU_EU,DK,Artichokes,Harvested production in EU standard humidity (1000 t),Denmark,2018,0
+PR_HU_EU,EE,Artichokes,Harvested production in EU standard humidity (1000 t),Estonia,2018,0
+PR_HU_EU,EL,Artichokes,Harvested production in EU standard humidity (1000 t),Greece,2018,18
+PR_HU_EU,ES,Artichokes,Harvested production in EU standard humidity (1000 t),Spain,2018,208.46
+PR_HU_EU,EU,Artichokes,Harvested production in EU standard humidity (1000 t),"European Union (EU6-1958, EU9-1973, EU10-1981, EU12-1986, EU15-1995, EU25-2004, EU27-2007, EU28-2013, EU27-2020)",2018,650.74
+PR_HU_EU,EU27_2020,Artichokes,Harvested production in EU standard humidity (1000 t),European Union - 27 countries (from 2020),2018,650.74
+PR_HU_EU,EU28,Artichokes,Harvested production in EU standard humidity (1000 t),European Union - 28 countries (2013-2020),2018,650.74
+PR_HU_EU,FI,Artichokes,Harvested production in EU standard humidity (1000 t),Finland,2018,0
+PR_HU_EU,FR,Artichokes,Harvested production in EU standard humidity (1000 t),France,2018,47.19
+PR_HU_EU,HR,Artichokes,Harvested production in EU standard humidity (1000 t),Croatia,2018,0
+PR_HU_EU,HU,Artichokes,Harvested production in EU standard humidity (1000 t),Hungary,2018,0.03
+PR_HU_EU,IE,Artichokes,Harvested production in EU standard humidity (1000 t),Ireland,2018,0
+PR_HU_EU,IS,Artichokes,Harvested production in EU standard humidity (1000 t),Iceland,2018,0
+PR_HU_EU,IT,Artichokes,Harvested production in EU standard humidity (1000 t),Italy,2018,373.43
+PR_HU_EU,LT,Artichokes,Harvested production in EU standard humidity (1000 t),Lithuania,2018,0
+PR_HU_EU,LU,Artichokes,Harvested production in EU standard humidity (1000 t),Luxembourg,2018,0
+PR_HU_EU,LV,Artichokes,Harvested production in EU standard humidity (1000 t),Latvia,2018,0
+PR_HU_EU,ME,Artichokes,Harvested production in EU standard humidity (1000 t),Montenegro,2018,0
+PR_HU_EU,MK,Artichokes,Harvested production in EU standard humidity (1000 t),North Macedonia,2018,0
+PR_HU_EU,MT,Artichokes,Harvested production in EU standard humidity (1000 t),Malta,2018,1.62
+PR_HU_EU,NL,Artichokes,Harvested production in EU standard humidity (1000 t),Netherlands,2018,0
+PR_HU_EU,NO,Artichokes,Harvested production in EU standard humidity (1000 t),Norway,2018,0
+PR_HU_EU,PL,Artichokes,Harvested production in EU standard humidity (1000 t),Poland,2018,0
+PR_HU_EU,PT,Artichokes,Harvested production in EU standard humidity (1000 t),Portugal,2018,0
+PR_HU_EU,RO,Artichokes,Harvested production in EU standard humidity (1000 t),Romania,2018,0
+PR_HU_EU,RS,Artichokes,Harvested production in EU standard humidity (1000 t),Serbia,2018,0
+PR_HU_EU,SE,Artichokes,Harvested production in EU standard humidity (1000 t),Sweden,2018,0
+PR_HU_EU,SI,Artichokes,Harvested production in EU standard humidity (1000 t),Slovenia,2018,0
+PR_HU_EU,SK,Artichokes,Harvested production in EU standard humidity (1000 t),Slovakia,2018,0
+PR_HU_EU,TR,Artichokes,Harvested production in EU standard humidity (1000 t),Turkey,2018,39
+PR_HU_EU,UK,Artichokes,Harvested production in EU standard humidity (1000 t),United Kingdom,2018,0
+PR_HU_EU,XK,Artichokes,Harvested production in EU standard humidity (1000 t),Kosovo (under United Nations Security Council Resolution 1244/99),2018,0
+AR,AL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Albania,2017,0
+AR,AT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Austria,2017,0
+AR,BA,Artichokes,Area (cultivation/harvested/production) (1000 ha),Bosnia and Herzegovina,2017,0
+AR,BE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Belgium,2017,0
+AR,BG,Artichokes,Area (cultivation/harvested/production) (1000 ha),Bulgaria,2017,0
+AR,CH,Artichokes,Area (cultivation/harvested/production) (1000 ha),Switzerland,2017,0
+AR,CY,Artichokes,Area (cultivation/harvested/production) (1000 ha),Cyprus,2017,0.09
+AR,CZ,Artichokes,Area (cultivation/harvested/production) (1000 ha),Czechia,2017,0
+AR,DE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Germany (until 1990 former territory of the FRG),2017,0
+AR,DK,Artichokes,Area (cultivation/harvested/production) (1000 ha),Denmark,2017,0
+AR,EE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Estonia,2017,0
+AR,EL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Greece,2017,0.65
+AR,ES,Artichokes,Area (cultivation/harvested/production) (1000 ha),Spain,2017,16.4
+AR,EU,Artichokes,Area (cultivation/harvested/production) (1000 ha),"European Union (EU6-1958, EU9-1973, EU10-1981, EU12-1986, EU15-1995, EU25-2004, EU27-2007, EU28-2013, EU27-2020)",2017,64.86
+AR,EU27_2020,Artichokes,Area (cultivation/harvested/production) (1000 ha),European Union - 27 countries (from 2020),2017,64.86
+AR,EU28,Artichokes,Area (cultivation/harvested/production) (1000 ha),European Union - 28 countries (2013-2020),2017,64.86
+AR,FI,Artichokes,Area (cultivation/harvested/production) (1000 ha),Finland,2017,0
+AR,FR,Artichokes,Area (cultivation/harvested/production) (1000 ha),France,2017,7.23
+AR,HR,Artichokes,Area (cultivation/harvested/production) (1000 ha),Croatia,2017,0
+AR,HU,Artichokes,Area (cultivation/harvested/production) (1000 ha),Hungary,2017,0
+AR,IE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Ireland,2017,0
+AR,IS,Artichokes,Area (cultivation/harvested/production) (1000 ha),Iceland,2017,0
+AR,IT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Italy,2017,40.48
+AR,LT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Lithuania,2017,0
+AR,LU,Artichokes,Area (cultivation/harvested/production) (1000 ha),Luxembourg,2017,0
+AR,LV,Artichokes,Area (cultivation/harvested/production) (1000 ha),Latvia,2017,0
+AR,ME,Artichokes,Area (cultivation/harvested/production) (1000 ha),Montenegro,2017,0
+AR,MK,Artichokes,Area (cultivation/harvested/production) (1000 ha),North Macedonia,2017,0
+AR,MT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Malta,2017,0
+AR,NL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Netherlands,2017,0
+AR,NO,Artichokes,Area (cultivation/harvested/production) (1000 ha),Norway,2017,0
+AR,PL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Poland,2017,0
+AR,PT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Portugal,2017,0
+AR,RO,Artichokes,Area (cultivation/harvested/production) (1000 ha),Romania,2017,0
+AR,RS,Artichokes,Area (cultivation/harvested/production) (1000 ha),Serbia,2017,0
+AR,SE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Sweden,2017,0
+AR,SI,Artichokes,Area (cultivation/harvested/production) (1000 ha),Slovenia,2017,0
+AR,SK,Artichokes,Area (cultivation/harvested/production) (1000 ha),Slovakia,2017,0
+AR,TR,Artichokes,Area (cultivation/harvested/production) (1000 ha),Turkey,2017,3
+AR,UK,Artichokes,Area (cultivation/harvested/production) (1000 ha),United Kingdom,2017,0
+PR_HU_EU,AL,Artichokes,Harvested production in EU standard humidity (1000 t),Albania,2017,0
+PR_HU_EU,AT,Artichokes,Harvested production in EU standard humidity (1000 t),Austria,2017,0
+PR_HU_EU,BA,Artichokes,Harvested production in EU standard humidity (1000 t),Bosnia and Herzegovina,2017,0
+PR_HU_EU,BE,Artichokes,Harvested production in EU standard humidity (1000 t),Belgium,2017,0
+PR_HU_EU,BG,Artichokes,Harvested production in EU standard humidity (1000 t),Bulgaria,2017,0
+PR_HU_EU,CH,Artichokes,Harvested production in EU standard humidity (1000 t),Switzerland,2017,0
+PR_HU_EU,CY,Artichokes,Harvested production in EU standard humidity (1000 t),Cyprus,2017,1.85
+PR_HU_EU,CZ,Artichokes,Harvested production in EU standard humidity (1000 t),Czechia,2017,0
+PR_HU_EU,DE,Artichokes,Harvested production in EU standard humidity (1000 t),Germany (until 1990 former territory of the FRG),2017,0
+PR_HU_EU,DK,Artichokes,Harvested production in EU standard humidity (1000 t),Denmark,2017,0
+PR_HU_EU,EE,Artichokes,Harvested production in EU standard humidity (1000 t),Estonia,2017,0
+PR_HU_EU,EL,Artichokes,Harvested production in EU standard humidity (1000 t),Greece,2017,4.46
+PR_HU_EU,ES,Artichokes,Harvested production in EU standard humidity (1000 t),Spain,2017,223.15
+PR_HU_EU,EU,Artichokes,Harvested production in EU standard humidity (1000 t),"European Union (EU6-1958, EU9-1973, EU10-1981, EU12-1986, EU15-1995, EU25-2004, EU27-2007, EU28-2013, EU27-2020)",2017,664.03
+PR_HU_EU,EU27_2020,Artichokes,Harvested production in EU standard humidity (1000 t),European Union - 27 countries (from 2020),2017,664.03
+PR_HU_EU,EU28,Artichokes,Harvested production in EU standard humidity (1000 t),European Union - 28 countries (2013-2020),2017,664.03
+PR_HU_EU,FI,Artichokes,Harvested production in EU standard humidity (1000 t),Finland,2017,0
+PR_HU_EU,FR,Artichokes,Harvested production in EU standard humidity (1000 t),France,2017,45.29
+PR_HU_EU,HR,Artichokes,Harvested production in EU standard humidity (1000 t),Croatia,2017,0
+PR_HU_EU,HU,Artichokes,Harvested production in EU standard humidity (1000 t),Hungary,2017,0.02
+PR_HU_EU,IE,Artichokes,Harvested production in EU standard humidity (1000 t),Ireland,2017,0
+PR_HU_EU,IS,Artichokes,Harvested production in EU standard humidity (1000 t),Iceland,2017,0
+PR_HU_EU,IT,Artichokes,Harvested production in EU standard humidity (1000 t),Italy,2017,387.8
+PR_HU_EU,LT,Artichokes,Harvested production in EU standard humidity (1000 t),Lithuania,2017,0
+PR_HU_EU,LU,Artichokes,Harvested production in EU standard humidity (1000 t),Luxembourg,2017,0
+PR_HU_EU,LV,Artichokes,Harvested production in EU standard humidity (1000 t),Latvia,2017,0
+PR_HU_EU,ME,Artichokes,Harvested production in EU standard humidity (1000 t),Montenegro,2017,0
+PR_HU_EU,MK,Artichokes,Harvested production in EU standard humidity (1000 t),North Macedonia,2017,0
+PR_HU_EU,MT,Artichokes,Harvested production in EU standard humidity (1000 t),Malta,2017,1.46
+PR_HU_EU,NL,Artichokes,Harvested production in EU standard humidity (1000 t),Netherlands,2017,0
+PR_HU_EU,NO,Artichokes,Harvested production in EU standard humidity (1000 t),Norway,2017,0
+PR_HU_EU,PL,Artichokes,Harvested production in EU standard humidity (1000 t),Poland,2017,0
+PR_HU_EU,PT,Artichokes,Harvested production in EU standard humidity (1000 t),Portugal,2017,0
+PR_HU_EU,RO,Artichokes,Harvested production in EU standard humidity (1000 t),Romania,2017,0
+PR_HU_EU,RS,Artichokes,Harvested production in EU standard humidity (1000 t),Serbia,2017,0
+PR_HU_EU,SE,Artichokes,Harvested production in EU standard humidity (1000 t),Sweden,2017,0
+PR_HU_EU,SI,Artichokes,Harvested production in EU standard humidity (1000 t),Slovenia,2017,0
+PR_HU_EU,SK,Artichokes,Harvested production in EU standard humidity (1000 t),Slovakia,2017,0
+PR_HU_EU,TR,Artichokes,Harvested production in EU standard humidity (1000 t),Turkey,2017,38
+PR_HU_EU,UK,Artichokes,Harvested production in EU standard humidity (1000 t),United Kingdom,2017,0
+AR,AL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Albania,2016,0
+AR,AT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Austria,2016,0
+AR,BA,Artichokes,Area (cultivation/harvested/production) (1000 ha),Bosnia and Herzegovina,2016,0
+AR,BE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Belgium,2016,0
+AR,BG,Artichokes,Area (cultivation/harvested/production) (1000 ha),Bulgaria,2016,0.59
+AR,CH,Artichokes,Area (cultivation/harvested/production) (1000 ha),Switzerland,2016,0
+AR,CY,Artichokes,Area (cultivation/harvested/production) (1000 ha),Cyprus,2016,0.12
+AR,CZ,Artichokes,Area (cultivation/harvested/production) (1000 ha),Czechia,2016,0
+AR,DE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Germany (until 1990 former territory of the FRG),2016,0
+AR,DK,Artichokes,Area (cultivation/harvested/production) (1000 ha),Denmark,2016,0
+AR,EE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Estonia,2016,0
+AR,EL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Greece,2016,0.58
+AR,ES,Artichokes,Area (cultivation/harvested/production) (1000 ha),Spain,2016,16.05
+AR,EU,Artichokes,Area (cultivation/harvested/production) (1000 ha),"European Union (EU6-1958, EU9-1973, EU10-1981, EU12-1986, EU15-1995, EU25-2004, EU27-2007, EU28-2013, EU27-2020)",2016,68.96
+AR,EU27_2020,Artichokes,Area (cultivation/harvested/production) (1000 ha),European Union - 27 countries (from 2020),2016,68.96
+AR,EU28,Artichokes,Area (cultivation/harvested/production) (1000 ha),European Union - 28 countries (2013-2020),2016,68.96
+AR,FI,Artichokes,Area (cultivation/harvested/production) (1000 ha),Finland,2016,0
+AR,FR,Artichokes,Area (cultivation/harvested/production) (1000 ha),France,2016,7.79
+AR,HR,Artichokes,Area (cultivation/harvested/production) (1000 ha),Croatia,2016,0
+AR,HU,Artichokes,Area (cultivation/harvested/production) (1000 ha),Hungary,2016,0
+AR,IE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Ireland,2016,0
+AR,IS,Artichokes,Area (cultivation/harvested/production) (1000 ha),Iceland,2016,0
+AR,IT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Italy,2016,43.84
+AR,LT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Lithuania,2016,0
+AR,LU,Artichokes,Area (cultivation/harvested/production) (1000 ha),Luxembourg,2016,0
+AR,LV,Artichokes,Area (cultivation/harvested/production) (1000 ha),Latvia,2016,0
+AR,ME,Artichokes,Area (cultivation/harvested/production) (1000 ha),Montenegro,2016,0
+AR,MK,Artichokes,Area (cultivation/harvested/production) (1000 ha),North Macedonia,2016,0
+AR,MT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Malta,2016,0
+AR,NL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Netherlands,2016,0
+AR,NO,Artichokes,Area (cultivation/harvested/production) (1000 ha),Norway,2016,0
+AR,PL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Poland,2016,0
+AR,PT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Portugal,2016,0
+AR,RO,Artichokes,Area (cultivation/harvested/production) (1000 ha),Romania,2016,0
+AR,RS,Artichokes,Area (cultivation/harvested/production) (1000 ha),Serbia,2016,0
+AR,SE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Sweden,2016,0
+AR,SI,Artichokes,Area (cultivation/harvested/production) (1000 ha),Slovenia,2016,0
+AR,SK,Artichokes,Area (cultivation/harvested/production) (1000 ha),Slovakia,2016,0
+AR,TR,Artichokes,Area (cultivation/harvested/production) (1000 ha),Turkey,2016,3
+AR,UK,Artichokes,Area (cultivation/harvested/production) (1000 ha),United Kingdom,2016,0
+PR_HU_EU,AL,Artichokes,Harvested production in EU standard humidity (1000 t),Albania,2016,0
+PR_HU_EU,AT,Artichokes,Harvested production in EU standard humidity (1000 t),Austria,2016,0
+PR_HU_EU,BA,Artichokes,Harvested production in EU standard humidity (1000 t),Bosnia and Herzegovina,2016,0
+PR_HU_EU,BE,Artichokes,Harvested production in EU standard humidity (1000 t),Belgium,2016,0
+PR_HU_EU,BG,Artichokes,Harvested production in EU standard humidity (1000 t),Bulgaria,2016,0.87
+PR_HU_EU,CH,Artichokes,Harvested production in EU standard humidity (1000 t),Switzerland,2016,0
+PR_HU_EU,CY,Artichokes,Harvested production in EU standard humidity (1000 t),Cyprus,2016,2.15
+PR_HU_EU,CZ,Artichokes,Harvested production in EU standard humidity (1000 t),Czechia,2016,0
+PR_HU_EU,DE,Artichokes,Harvested production in EU standard humidity (1000 t),Germany (until 1990 former territory of the FRG),2016,0
+PR_HU_EU,DK,Artichokes,Harvested production in EU standard humidity (1000 t),Denmark,2016,0
+PR_HU_EU,EE,Artichokes,Harvested production in EU standard humidity (1000 t),Estonia,2016,0
+PR_HU_EU,EL,Artichokes,Harvested production in EU standard humidity (1000 t),Greece,2016,6.31
+PR_HU_EU,ES,Artichokes,Harvested production in EU standard humidity (1000 t),Spain,2016,225.62
+PR_HU_EU,EU,Artichokes,Harvested production in EU standard humidity (1000 t),"European Union (EU6-1958, EU9-1973, EU10-1981, EU12-1986, EU15-1995, EU25-2004, EU27-2007, EU28-2013, EU27-2020)",2016,647.8
+PR_HU_EU,EU27_2020,Artichokes,Harvested production in EU standard humidity (1000 t),European Union - 27 countries (from 2020),2016,647.8
+PR_HU_EU,EU28,Artichokes,Harvested production in EU standard humidity (1000 t),European Union - 28 countries (2013-2020),2016,647.8
+PR_HU_EU,FI,Artichokes,Harvested production in EU standard humidity (1000 t),Finland,2016,0
+PR_HU_EU,FR,Artichokes,Harvested production in EU standard humidity (1000 t),France,2016,45.41
+PR_HU_EU,HR,Artichokes,Harvested production in EU standard humidity (1000 t),Croatia,2016,0
+PR_HU_EU,HU,Artichokes,Harvested production in EU standard humidity (1000 t),Hungary,2016,0.01
+PR_HU_EU,IE,Artichokes,Harvested production in EU standard humidity (1000 t),Ireland,2016,0
+PR_HU_EU,IS,Artichokes,Harvested production in EU standard humidity (1000 t),Iceland,2016,0
+PR_HU_EU,IT,Artichokes,Harvested production in EU standard humidity (1000 t),Italy,2016,365.99
+PR_HU_EU,LT,Artichokes,Harvested production in EU standard humidity (1000 t),Lithuania,2016,0
+PR_HU_EU,LU,Artichokes,Harvested production in EU standard humidity (1000 t),Luxembourg,2016,0
+PR_HU_EU,LV,Artichokes,Harvested production in EU standard humidity (1000 t),Latvia,2016,0
+PR_HU_EU,ME,Artichokes,Harvested production in EU standard humidity (1000 t),Montenegro,2016,0
+PR_HU_EU,MK,Artichokes,Harvested production in EU standard humidity (1000 t),North Macedonia,2016,0
+PR_HU_EU,MT,Artichokes,Harvested production in EU standard humidity (1000 t),Malta,2016,1.43
+PR_HU_EU,NL,Artichokes,Harvested production in EU standard humidity (1000 t),Netherlands,2016,0
+PR_HU_EU,NO,Artichokes,Harvested production in EU standard humidity (1000 t),Norway,2016,0
+PR_HU_EU,PL,Artichokes,Harvested production in EU standard humidity (1000 t),Poland,2016,0
+PR_HU_EU,PT,Artichokes,Harvested production in EU standard humidity (1000 t),Portugal,2016,0
+PR_HU_EU,RO,Artichokes,Harvested production in EU standard humidity (1000 t),Romania,2016,0
+PR_HU_EU,RS,Artichokes,Harvested production in EU standard humidity (1000 t),Serbia,2016,0
+PR_HU_EU,SE,Artichokes,Harvested production in EU standard humidity (1000 t),Sweden,2016,0
+PR_HU_EU,SI,Artichokes,Harvested production in EU standard humidity (1000 t),Slovenia,2016,0
+PR_HU_EU,SK,Artichokes,Harvested production in EU standard humidity (1000 t),Slovakia,2016,0
+PR_HU_EU,TR,Artichokes,Harvested production in EU standard humidity (1000 t),Turkey,2016,36
+PR_HU_EU,UK,Artichokes,Harvested production in EU standard humidity (1000 t),United Kingdom,2016,0
+AR,AL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Albania,2015,0
+AR,AT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Austria,2015,0
+AR,BA,Artichokes,Area (cultivation/harvested/production) (1000 ha),Bosnia and Herzegovina,2015,0
+AR,BE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Belgium,2015,0
+AR,BG,Artichokes,Area (cultivation/harvested/production) (1000 ha),Bulgaria,2015,0.44
+AR,CH,Artichokes,Area (cultivation/harvested/production) (1000 ha),Switzerland,2015,0
+AR,CY,Artichokes,Area (cultivation/harvested/production) (1000 ha),Cyprus,2015,0.11
+AR,CZ,Artichokes,Area (cultivation/harvested/production) (1000 ha),Czechia,2015,0
+AR,DE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Germany (until 1990 former territory of the FRG),2015,0
+AR,DK,Artichokes,Area (cultivation/harvested/production) (1000 ha),Denmark,2015,0
+AR,EE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Estonia,2015,0
+AR,EL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Greece,2015,0.61
+AR,ES,Artichokes,Area (cultivation/harvested/production) (1000 ha),Spain,2015,15
+AR,EU,Artichokes,Area (cultivation/harvested/production) (1000 ha),"European Union (EU6-1958, EU9-1973, EU10-1981, EU12-1986, EU15-1995, EU25-2004, EU27-2007, EU28-2013, EU27-2020)",2015,65.18
+AR,EU27_2020,Artichokes,Area (cultivation/harvested/production) (1000 ha),European Union - 27 countries (from 2020),2015,65.18
+AR,EU28,Artichokes,Area (cultivation/harvested/production) (1000 ha),European Union - 28 countries (2013-2020),2015,65.18
+AR,FI,Artichokes,Area (cultivation/harvested/production) (1000 ha),Finland,2015,0
+AR,FR,Artichokes,Area (cultivation/harvested/production) (1000 ha),France,2015,7.71
+AR,HR,Artichokes,Area (cultivation/harvested/production) (1000 ha),Croatia,2015,0
+AR,HU,Artichokes,Area (cultivation/harvested/production) (1000 ha),Hungary,2015,0
+AR,IE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Ireland,2015,0
+AR,IS,Artichokes,Area (cultivation/harvested/production) (1000 ha),Iceland,2015,0
+AR,IT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Italy,2015,41.3
+AR,LT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Lithuania,2015,0
+AR,LU,Artichokes,Area (cultivation/harvested/production) (1000 ha),Luxembourg,2015,0
+AR,LV,Artichokes,Area (cultivation/harvested/production) (1000 ha),Latvia,2015,0
+AR,ME,Artichokes,Area (cultivation/harvested/production) (1000 ha),Montenegro,2015,0
+AR,MK,Artichokes,Area (cultivation/harvested/production) (1000 ha),North Macedonia,2015,0
+AR,MT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Malta,2015,0
+AR,NL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Netherlands,2015,0
+AR,PL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Poland,2015,0
+AR,PT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Portugal,2015,0
+AR,RO,Artichokes,Area (cultivation/harvested/production) (1000 ha),Romania,2015,0
+AR,RS,Artichokes,Area (cultivation/harvested/production) (1000 ha),Serbia,2015,0
+AR,SE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Sweden,2015,0
+AR,SI,Artichokes,Area (cultivation/harvested/production) (1000 ha),Slovenia,2015,0
+AR,SK,Artichokes,Area (cultivation/harvested/production) (1000 ha),Slovakia,2015,0
+AR,TR,Artichokes,Area (cultivation/harvested/production) (1000 ha),Turkey,2015,3
+AR,UK,Artichokes,Area (cultivation/harvested/production) (1000 ha),United Kingdom,2015,0
+PR_HU_EU,AT,Artichokes,Harvested production in EU standard humidity (1000 t),Austria,2015,0
+PR_HU_EU,BA,Artichokes,Harvested production in EU standard humidity (1000 t),Bosnia and Herzegovina,2015,0
+PR_HU_EU,BE,Artichokes,Harvested production in EU standard humidity (1000 t),Belgium,2015,0
+PR_HU_EU,BG,Artichokes,Harvested production in EU standard humidity (1000 t),Bulgaria,2015,0.67
+PR_HU_EU,CH,Artichokes,Harvested production in EU standard humidity (1000 t),Switzerland,2015,0
+PR_HU_EU,CY,Artichokes,Harvested production in EU standard humidity (1000 t),Cyprus,2015,2.06
+PR_HU_EU,CZ,Artichokes,Harvested production in EU standard humidity (1000 t),Czechia,2015,0
+PR_HU_EU,DE,Artichokes,Harvested production in EU standard humidity (1000 t),Germany (until 1990 former territory of the FRG),2015,0
+PR_HU_EU,DK,Artichokes,Harvested production in EU standard humidity (1000 t),Denmark,2015,0
+PR_HU_EU,EE,Artichokes,Harvested production in EU standard humidity (1000 t),Estonia,2015,0
+PR_HU_EU,EL,Artichokes,Harvested production in EU standard humidity (1000 t),Greece,2015,6.62
+PR_HU_EU,ES,Artichokes,Harvested production in EU standard humidity (1000 t),Spain,2015,204.11
+PR_HU_EU,EU,Artichokes,Harvested production in EU standard humidity (1000 t),"European Union (EU6-1958, EU9-1973, EU10-1981, EU12-1986, EU15-1995, EU25-2004, EU27-2007, EU28-2013, EU27-2020)",2015,655.12
+PR_HU_EU,EU27_2020,Artichokes,Harvested production in EU standard humidity (1000 t),European Union - 27 countries (from 2020),2015,655.12
+PR_HU_EU,EU28,Artichokes,Harvested production in EU standard humidity (1000 t),European Union - 28 countries (2013-2020),2015,655.12
+PR_HU_EU,FI,Artichokes,Harvested production in EU standard humidity (1000 t),Finland,2015,0
+PR_HU_EU,FR,Artichokes,Harvested production in EU standard humidity (1000 t),France,2015,38.46
+PR_HU_EU,HR,Artichokes,Harvested production in EU standard humidity (1000 t),Croatia,2015,0
+PR_HU_EU,HU,Artichokes,Harvested production in EU standard humidity (1000 t),Hungary,2015,0.02
+PR_HU_EU,IE,Artichokes,Harvested production in EU standard humidity (1000 t),Ireland,2015,0
+PR_HU_EU,IS,Artichokes,Harvested production in EU standard humidity (1000 t),Iceland,2015,0
+PR_HU_EU,IT,Artichokes,Harvested production in EU standard humidity (1000 t),Italy,2015,401.34
+PR_HU_EU,LT,Artichokes,Harvested production in EU standard humidity (1000 t),Lithuania,2015,0
+PR_HU_EU,LU,Artichokes,Harvested production in EU standard humidity (1000 t),Luxembourg,2015,0
+PR_HU_EU,LV,Artichokes,Harvested production in EU standard humidity (1000 t),Latvia,2015,0
+PR_HU_EU,ME,Artichokes,Harvested production in EU standard humidity (1000 t),Montenegro,2015,0
+PR_HU_EU,MK,Artichokes,Harvested production in EU standard humidity (1000 t),North Macedonia,2015,0
+PR_HU_EU,MT,Artichokes,Harvested production in EU standard humidity (1000 t),Malta,2015,1.84
+PR_HU_EU,NL,Artichokes,Harvested production in EU standard humidity (1000 t),Netherlands,2015,0
+PR_HU_EU,PL,Artichokes,Harvested production in EU standard humidity (1000 t),Poland,2015,0
+PR_HU_EU,PT,Artichokes,Harvested production in EU standard humidity (1000 t),Portugal,2015,0
+PR_HU_EU,RO,Artichokes,Harvested production in EU standard humidity (1000 t),Romania,2015,0
+PR_HU_EU,RS,Artichokes,Harvested production in EU standard humidity (1000 t),Serbia,2015,0
+PR_HU_EU,SE,Artichokes,Harvested production in EU standard humidity (1000 t),Sweden,2015,0
+PR_HU_EU,SI,Artichokes,Harvested production in EU standard humidity (1000 t),Slovenia,2015,0
+PR_HU_EU,SK,Artichokes,Harvested production in EU standard humidity (1000 t),Slovakia,2015,0
+PR_HU_EU,TR,Artichokes,Harvested production in EU standard humidity (1000 t),Turkey,2015,33
+PR_HU_EU,UK,Artichokes,Harvested production in EU standard humidity (1000 t),United Kingdom,2015,0
+AR,AT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Austria,2014,0
+AR,BA,Artichokes,Area (cultivation/harvested/production) (1000 ha),Bosnia and Herzegovina,2014,0
+AR,BE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Belgium,2014,0
+AR,BG,Artichokes,Area (cultivation/harvested/production) (1000 ha),Bulgaria,2014,0
+AR,CH,Artichokes,Area (cultivation/harvested/production) (1000 ha),Switzerland,2014,0
+AR,CY,Artichokes,Area (cultivation/harvested/production) (1000 ha),Cyprus,2014,0.12
+AR,CZ,Artichokes,Area (cultivation/harvested/production) (1000 ha),Czechia,2014,0
+AR,DE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Germany (until 1990 former territory of the FRG),2014,0
+AR,DK,Artichokes,Area (cultivation/harvested/production) (1000 ha),Denmark,2014,0
+AR,EE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Estonia,2014,0
+AR,EL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Greece,2014,1.88
+AR,ES,Artichokes,Area (cultivation/harvested/production) (1000 ha),Spain,2014,17.43
+AR,EU,Artichokes,Area (cultivation/harvested/production) (1000 ha),"European Union (EU6-1958, EU9-1973, EU10-1981, EU12-1986, EU15-1995, EU25-2004, EU27-2007, EU28-2013, EU27-2020)",2014,73.57
+AR,EU27_2020,Artichokes,Area (cultivation/harvested/production) (1000 ha),European Union - 27 countries (from 2020),2014,73.57
+AR,EU28,Artichokes,Area (cultivation/harvested/production) (1000 ha),European Union - 28 countries (2013-2020),2014,73.57
+AR,FI,Artichokes,Area (cultivation/harvested/production) (1000 ha),Finland,2014,0
+AR,FR,Artichokes,Area (cultivation/harvested/production) (1000 ha),France,2014,7.71
+AR,HR,Artichokes,Area (cultivation/harvested/production) (1000 ha),Croatia,2014,0
+AR,HU,Artichokes,Area (cultivation/harvested/production) (1000 ha),Hungary,2014,0
+AR,IE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Ireland,2014,0
+AR,IT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Italy,2014,46.44
+AR,LT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Lithuania,2014,0
+AR,LU,Artichokes,Area (cultivation/harvested/production) (1000 ha),Luxembourg,2014,0
+AR,LV,Artichokes,Area (cultivation/harvested/production) (1000 ha),Latvia,2014,0
+AR,ME,Artichokes,Area (cultivation/harvested/production) (1000 ha),Montenegro,2014,0
+AR,MK,Artichokes,Area (cultivation/harvested/production) (1000 ha),North Macedonia,2014,0
+AR,MT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Malta,2014,0
+AR,NL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Netherlands,2014,0
+AR,NO,Artichokes,Area (cultivation/harvested/production) (1000 ha),Norway,2014,0
+AR,PL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Poland,2014,0
+AR,PT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Portugal,2014,0
+AR,RO,Artichokes,Area (cultivation/harvested/production) (1000 ha),Romania,2014,0
+AR,RS,Artichokes,Area (cultivation/harvested/production) (1000 ha),Serbia,2014,0
+AR,SE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Sweden,2014,0
+AR,SI,Artichokes,Area (cultivation/harvested/production) (1000 ha),Slovenia,2014,0
+AR,SK,Artichokes,Area (cultivation/harvested/production) (1000 ha),Slovakia,2014,0
+AR,TR,Artichokes,Area (cultivation/harvested/production) (1000 ha),Turkey,2014,3
+AR,UK,Artichokes,Area (cultivation/harvested/production) (1000 ha),United Kingdom,2014,0
+AR,XK,Artichokes,Area (cultivation/harvested/production) (1000 ha),Kosovo (under United Nations Security Council Resolution 1244/99),2014,0
+PR_HU_EU,AT,Artichokes,Harvested production in EU standard humidity (1000 t),Austria,2014,0
+PR_HU_EU,BA,Artichokes,Harvested production in EU standard humidity (1000 t),Bosnia and Herzegovina,2014,0
+PR_HU_EU,BE,Artichokes,Harvested production in EU standard humidity (1000 t),Belgium,2014,0
+PR_HU_EU,BG,Artichokes,Harvested production in EU standard humidity (1000 t),Bulgaria,2014,0
+PR_HU_EU,CH,Artichokes,Harvested production in EU standard humidity (1000 t),Switzerland,2014,0
+PR_HU_EU,CY,Artichokes,Harvested production in EU standard humidity (1000 t),Cyprus,2014,2.15
+PR_HU_EU,CZ,Artichokes,Harvested production in EU standard humidity (1000 t),Czechia,2014,0
+PR_HU_EU,DE,Artichokes,Harvested production in EU standard humidity (1000 t),Germany (until 1990 former territory of the FRG),2014,0
+PR_HU_EU,DK,Artichokes,Harvested production in EU standard humidity (1000 t),Denmark,2014,0
+PR_HU_EU,EE,Artichokes,Harvested production in EU standard humidity (1000 t),Estonia,2014,0
+PR_HU_EU,EL,Artichokes,Harvested production in EU standard humidity (1000 t),Greece,2014,13.65
+PR_HU_EU,ES,Artichokes,Harvested production in EU standard humidity (1000 t),Spain,2014,234.09
+PR_HU_EU,EU,Artichokes,Harvested production in EU standard humidity (1000 t),"European Union (EU6-1958, EU9-1973, EU10-1981, EU12-1986, EU15-1995, EU25-2004, EU27-2007, EU28-2013, EU27-2020)",2014,741.25
+PR_HU_EU,EU27_2020,Artichokes,Harvested production in EU standard humidity (1000 t),European Union - 27 countries (from 2020),2014,741.25
+PR_HU_EU,EU28,Artichokes,Harvested production in EU standard humidity (1000 t),European Union - 28 countries (2013-2020),2014,741.25
+PR_HU_EU,FI,Artichokes,Harvested production in EU standard humidity (1000 t),Finland,2014,0
+PR_HU_EU,FR,Artichokes,Harvested production in EU standard humidity (1000 t),France,2014,38.35
+PR_HU_EU,HR,Artichokes,Harvested production in EU standard humidity (1000 t),Croatia,2014,0
+PR_HU_EU,HU,Artichokes,Harvested production in EU standard humidity (1000 t),Hungary,2014,0
+PR_HU_EU,IE,Artichokes,Harvested production in EU standard humidity (1000 t),Ireland,2014,0
+PR_HU_EU,IT,Artichokes,Harvested production in EU standard humidity (1000 t),Italy,2014,451.46
+PR_HU_EU,LT,Artichokes,Harvested production in EU standard humidity (1000 t),Lithuania,2014,0
+PR_HU_EU,LU,Artichokes,Harvested production in EU standard humidity (1000 t),Luxembourg,2014,0
+PR_HU_EU,LV,Artichokes,Harvested production in EU standard humidity (1000 t),Latvia,2014,0
+PR_HU_EU,ME,Artichokes,Harvested production in EU standard humidity (1000 t),Montenegro,2014,0
+PR_HU_EU,MK,Artichokes,Harvested production in EU standard humidity (1000 t),North Macedonia,2014,0
+PR_HU_EU,MT,Artichokes,Harvested production in EU standard humidity (1000 t),Malta,2014,1.54
+PR_HU_EU,NL,Artichokes,Harvested production in EU standard humidity (1000 t),Netherlands,2014,0
+PR_HU_EU,PL,Artichokes,Harvested production in EU standard humidity (1000 t),Poland,2014,0
+PR_HU_EU,PT,Artichokes,Harvested production in EU standard humidity (1000 t),Portugal,2014,0
+PR_HU_EU,RO,Artichokes,Harvested production in EU standard humidity (1000 t),Romania,2014,0
+PR_HU_EU,RS,Artichokes,Harvested production in EU standard humidity (1000 t),Serbia,2014,0
+PR_HU_EU,SE,Artichokes,Harvested production in EU standard humidity (1000 t),Sweden,2014,0
+PR_HU_EU,SI,Artichokes,Harvested production in EU standard humidity (1000 t),Slovenia,2014,0
+PR_HU_EU,SK,Artichokes,Harvested production in EU standard humidity (1000 t),Slovakia,2014,0
+PR_HU_EU,TR,Artichokes,Harvested production in EU standard humidity (1000 t),Turkey,2014,35
+PR_HU_EU,UK,Artichokes,Harvested production in EU standard humidity (1000 t),United Kingdom,2014,0
+PR_HU_EU,XK,Artichokes,Harvested production in EU standard humidity (1000 t),Kosovo (under United Nations Security Council Resolution 1244/99),2014,0
+AR,AT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Austria,2013,0
+AR,BA,Artichokes,Area (cultivation/harvested/production) (1000 ha),Bosnia and Herzegovina,2013,0
+AR,BE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Belgium,2013,0
+AR,BG,Artichokes,Area (cultivation/harvested/production) (1000 ha),Bulgaria,2013,0
+AR,CY,Artichokes,Area (cultivation/harvested/production) (1000 ha),Cyprus,2013,0.12
+AR,CZ,Artichokes,Area (cultivation/harvested/production) (1000 ha),Czechia,2013,0
+AR,DE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Germany (until 1990 former territory of the FRG),2013,0
+AR,DK,Artichokes,Area (cultivation/harvested/production) (1000 ha),Denmark,2013,0
+AR,EE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Estonia,2013,0
+AR,EL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Greece,2013,1.88
+AR,ES,Artichokes,Area (cultivation/harvested/production) (1000 ha),Spain,2013,15.38
+AR,EU,Artichokes,Area (cultivation/harvested/production) (1000 ha),"European Union (EU6-1958, EU9-1973, EU10-1981, EU12-1986, EU15-1995, EU25-2004, EU27-2007, EU28-2013, EU27-2020)",2013,71.97
+AR,EU27_2020,Artichokes,Area (cultivation/harvested/production) (1000 ha),European Union - 27 countries (from 2020),2013,71.97
+AR,EU28,Artichokes,Area (cultivation/harvested/production) (1000 ha),European Union - 28 countries (2013-2020),2013,71.97
+AR,FI,Artichokes,Area (cultivation/harvested/production) (1000 ha),Finland,2013,0
+AR,FR,Artichokes,Area (cultivation/harvested/production) (1000 ha),France,2013,7.64
+AR,HR,Artichokes,Area (cultivation/harvested/production) (1000 ha),Croatia,2013,0
+AR,HU,Artichokes,Area (cultivation/harvested/production) (1000 ha),Hungary,2013,0
+AR,IE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Ireland,2013,0
+AR,IS,Artichokes,Area (cultivation/harvested/production) (1000 ha),Iceland,2013,0
+AR,IT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Italy,2013,46.95
+AR,LT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Lithuania,2013,0
+AR,LU,Artichokes,Area (cultivation/harvested/production) (1000 ha),Luxembourg,2013,0
+AR,LV,Artichokes,Area (cultivation/harvested/production) (1000 ha),Latvia,2013,0
+AR,ME,Artichokes,Area (cultivation/harvested/production) (1000 ha),Montenegro,2013,0
+AR,MK,Artichokes,Area (cultivation/harvested/production) (1000 ha),North Macedonia,2013,0
+AR,MT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Malta,2013,0
+AR,NL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Netherlands,2013,0
+AR,PL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Poland,2013,0
+AR,PT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Portugal,2013,0
+AR,RO,Artichokes,Area (cultivation/harvested/production) (1000 ha),Romania,2013,0
+AR,RS,Artichokes,Area (cultivation/harvested/production) (1000 ha),Serbia,2013,0
+AR,SE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Sweden,2013,0
+AR,SI,Artichokes,Area (cultivation/harvested/production) (1000 ha),Slovenia,2013,0
+AR,SK,Artichokes,Area (cultivation/harvested/production) (1000 ha),Slovakia,2013,0
+AR,TR,Artichokes,Area (cultivation/harvested/production) (1000 ha),Turkey,2013,3
+AR,UK,Artichokes,Area (cultivation/harvested/production) (1000 ha),United Kingdom,2013,0
+AR,XK,Artichokes,Area (cultivation/harvested/production) (1000 ha),Kosovo (under United Nations Security Council Resolution 1244/99),2013,0
+PR_HU_EU,AT,Artichokes,Harvested production in EU standard humidity (1000 t),Austria,2013,0
+PR_HU_EU,BA,Artichokes,Harvested production in EU standard humidity (1000 t),Bosnia and Herzegovina,2013,0
+PR_HU_EU,BE,Artichokes,Harvested production in EU standard humidity (1000 t),Belgium,2013,0
+PR_HU_EU,BG,Artichokes,Harvested production in EU standard humidity (1000 t),Bulgaria,2013,0
+PR_HU_EU,CY,Artichokes,Harvested production in EU standard humidity (1000 t),Cyprus,2013,2.08
+PR_HU_EU,CZ,Artichokes,Harvested production in EU standard humidity (1000 t),Czechia,2013,0
+PR_HU_EU,DE,Artichokes,Harvested production in EU standard humidity (1000 t),Germany (until 1990 former territory of the FRG),2013,0
+PR_HU_EU,DK,Artichokes,Harvested production in EU standard humidity (1000 t),Denmark,2013,0
+PR_HU_EU,EE,Artichokes,Harvested production in EU standard humidity (1000 t),Estonia,2013,0
+PR_HU_EU,EL,Artichokes,Harvested production in EU standard humidity (1000 t),Greece,2013,29.19
+PR_HU_EU,ES,Artichokes,Harvested production in EU standard humidity (1000 t),Spain,2013,199.95
+PR_HU_EU,EU,Artichokes,Harvested production in EU standard humidity (1000 t),"European Union (EU6-1958, EU9-1973, EU10-1981, EU12-1986, EU15-1995, EU25-2004, EU27-2007, EU28-2013, EU27-2020)",2013,725.93
+PR_HU_EU,EU27_2020,Artichokes,Harvested production in EU standard humidity (1000 t),European Union - 27 countries (from 2020),2013,725.93
+PR_HU_EU,EU28,Artichokes,Harvested production in EU standard humidity (1000 t),European Union - 28 countries (2013-2020),2013,725.93
+PR_HU_EU,FI,Artichokes,Harvested production in EU standard humidity (1000 t),Finland,2013,0
+PR_HU_EU,FR,Artichokes,Harvested production in EU standard humidity (1000 t),France,2013,35.6
+PR_HU_EU,HR,Artichokes,Harvested production in EU standard humidity (1000 t),Croatia,2013,0
+PR_HU_EU,HU,Artichokes,Harvested production in EU standard humidity (1000 t),Hungary,2013,0
+PR_HU_EU,IE,Artichokes,Harvested production in EU standard humidity (1000 t),Ireland,2013,0
+PR_HU_EU,IS,Artichokes,Harvested production in EU standard humidity (1000 t),Iceland,2013,0
+PR_HU_EU,IT,Artichokes,Harvested production in EU standard humidity (1000 t),Italy,2013,457.8
+PR_HU_EU,LT,Artichokes,Harvested production in EU standard humidity (1000 t),Lithuania,2013,0
+PR_HU_EU,LU,Artichokes,Harvested production in EU standard humidity (1000 t),Luxembourg,2013,0
+PR_HU_EU,LV,Artichokes,Harvested production in EU standard humidity (1000 t),Latvia,2013,0
+PR_HU_EU,ME,Artichokes,Harvested production in EU standard humidity (1000 t),Montenegro,2013,0
+PR_HU_EU,MK,Artichokes,Harvested production in EU standard humidity (1000 t),North Macedonia,2013,0
+PR_HU_EU,MT,Artichokes,Harvested production in EU standard humidity (1000 t),Malta,2013,1.31
+PR_HU_EU,NL,Artichokes,Harvested production in EU standard humidity (1000 t),Netherlands,2013,0
+PR_HU_EU,PL,Artichokes,Harvested production in EU standard humidity (1000 t),Poland,2013,0
+PR_HU_EU,PT,Artichokes,Harvested production in EU standard humidity (1000 t),Portugal,2013,0.01
+PR_HU_EU,RO,Artichokes,Harvested production in EU standard humidity (1000 t),Romania,2013,0
+PR_HU_EU,RS,Artichokes,Harvested production in EU standard humidity (1000 t),Serbia,2013,0
+PR_HU_EU,SE,Artichokes,Harvested production in EU standard humidity (1000 t),Sweden,2013,0
+PR_HU_EU,SI,Artichokes,Harvested production in EU standard humidity (1000 t),Slovenia,2013,0
+PR_HU_EU,SK,Artichokes,Harvested production in EU standard humidity (1000 t),Slovakia,2013,0
+PR_HU_EU,TR,Artichokes,Harvested production in EU standard humidity (1000 t),Turkey,2013,34
+PR_HU_EU,UK,Artichokes,Harvested production in EU standard humidity (1000 t),United Kingdom,2013,0
+PR_HU_EU,XK,Artichokes,Harvested production in EU standard humidity (1000 t),Kosovo (under United Nations Security Council Resolution 1244/99),2013,0
+AR,AT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Austria,2012,0
+AR,BA,Artichokes,Area (cultivation/harvested/production) (1000 ha),Bosnia and Herzegovina,2012,0
+AR,BE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Belgium,2012,0
+AR,BG,Artichokes,Area (cultivation/harvested/production) (1000 ha),Bulgaria,2012,0
+AR,CY,Artichokes,Area (cultivation/harvested/production) (1000 ha),Cyprus,2012,0.13
+AR,CZ,Artichokes,Area (cultivation/harvested/production) (1000 ha),Czechia,2012,0
+AR,DE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Germany (until 1990 former territory of the FRG),2012,0
+AR,DK,Artichokes,Area (cultivation/harvested/production) (1000 ha),Denmark,2012,0
+AR,EE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Estonia,2012,0
+AR,EL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Greece,2012,1.95
+AR,ES,Artichokes,Area (cultivation/harvested/production) (1000 ha),Spain,2012,15.64
+AR,EU,Artichokes,Area (cultivation/harvested/production) (1000 ha),"European Union (EU6-1958, EU9-1973, EU10-1981, EU12-1986, EU15-1995, EU25-2004, EU27-2007, EU28-2013, EU27-2020)",2012,60.91
+AR,EU27_2020,Artichokes,Area (cultivation/harvested/production) (1000 ha),European Union - 27 countries (from 2020),2012,60.91
+AR,EU28,Artichokes,Area (cultivation/harvested/production) (1000 ha),European Union - 28 countries (2013-2020),2012,60.91
+AR,FI,Artichokes,Area (cultivation/harvested/production) (1000 ha),Finland,2012,0
+AR,FR,Artichokes,Area (cultivation/harvested/production) (1000 ha),France,2012,7.6
+AR,HR,Artichokes,Area (cultivation/harvested/production) (1000 ha),Croatia,2012,0
+AR,HU,Artichokes,Area (cultivation/harvested/production) (1000 ha),Hungary,2012,0
+AR,IE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Ireland,2012,0
+AR,IS,Artichokes,Area (cultivation/harvested/production) (1000 ha),Iceland,2012,0
+AR,IT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Italy,2012,35.59
+AR,LT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Lithuania,2012,0
+AR,LU,Artichokes,Area (cultivation/harvested/production) (1000 ha),Luxembourg,2012,0
+AR,LV,Artichokes,Area (cultivation/harvested/production) (1000 ha),Latvia,2012,0
+AR,ME,Artichokes,Area (cultivation/harvested/production) (1000 ha),Montenegro,2012,0
+AR,MK,Artichokes,Area (cultivation/harvested/production) (1000 ha),North Macedonia,2012,0
+AR,MT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Malta,2012,0
+AR,NL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Netherlands,2012,0
+AR,PL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Poland,2012,0
+AR,PT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Portugal,2012,0
+AR,RO,Artichokes,Area (cultivation/harvested/production) (1000 ha),Romania,2012,0
+AR,RS,Artichokes,Area (cultivation/harvested/production) (1000 ha),Serbia,2012,0
+AR,SE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Sweden,2012,0
+AR,SI,Artichokes,Area (cultivation/harvested/production) (1000 ha),Slovenia,2012,0
+AR,SK,Artichokes,Area (cultivation/harvested/production) (1000 ha),Slovakia,2012,0
+AR,TR,Artichokes,Area (cultivation/harvested/production) (1000 ha),Turkey,2012,3
+AR,UK,Artichokes,Area (cultivation/harvested/production) (1000 ha),United Kingdom,2012,0
+AR,XK,Artichokes,Area (cultivation/harvested/production) (1000 ha),Kosovo (under United Nations Security Council Resolution 1244/99),2012,0
+PR_HU_EU,AT,Artichokes,Harvested production in EU standard humidity (1000 t),Austria,2012,0
+PR_HU_EU,BA,Artichokes,Harvested production in EU standard humidity (1000 t),Bosnia and Herzegovina,2012,0
+PR_HU_EU,BE,Artichokes,Harvested production in EU standard humidity (1000 t),Belgium,2012,0
+PR_HU_EU,BG,Artichokes,Harvested production in EU standard humidity (1000 t),Bulgaria,2012,0
+PR_HU_EU,CY,Artichokes,Harvested production in EU standard humidity (1000 t),Cyprus,2012,2.41
+PR_HU_EU,CZ,Artichokes,Harvested production in EU standard humidity (1000 t),Czechia,2012,0
+PR_HU_EU,DE,Artichokes,Harvested production in EU standard humidity (1000 t),Germany (until 1990 former territory of the FRG),2012,0
+PR_HU_EU,DK,Artichokes,Harvested production in EU standard humidity (1000 t),Denmark,2012,0
+PR_HU_EU,EE,Artichokes,Harvested production in EU standard humidity (1000 t),Estonia,2012,0
+PR_HU_EU,EL,Artichokes,Harvested production in EU standard humidity (1000 t),Greece,2012,31.57
+PR_HU_EU,ES,Artichokes,Harvested production in EU standard humidity (1000 t),Spain,2012,195.29
+PR_HU_EU,EU,Artichokes,Harvested production in EU standard humidity (1000 t),"European Union (EU6-1958, EU9-1973, EU10-1981, EU12-1986, EU15-1995, EU25-2004, EU27-2007, EU28-2013, EU27-2020)",2012,636.73
+PR_HU_EU,EU27_2020,Artichokes,Harvested production in EU standard humidity (1000 t),European Union - 27 countries (from 2020),2012,636.73
+PR_HU_EU,EU28,Artichokes,Harvested production in EU standard humidity (1000 t),European Union - 28 countries (2013-2020),2012,636.73
+PR_HU_EU,FI,Artichokes,Harvested production in EU standard humidity (1000 t),Finland,2012,0
+PR_HU_EU,FR,Artichokes,Harvested production in EU standard humidity (1000 t),France,2012,40.98
+PR_HU_EU,HR,Artichokes,Harvested production in EU standard humidity (1000 t),Croatia,2012,0
+PR_HU_EU,HU,Artichokes,Harvested production in EU standard humidity (1000 t),Hungary,2012,0
+PR_HU_EU,IE,Artichokes,Harvested production in EU standard humidity (1000 t),Ireland,2012,0
+PR_HU_EU,IS,Artichokes,Harvested production in EU standard humidity (1000 t),Iceland,2012,0
+PR_HU_EU,IT,Artichokes,Harvested production in EU standard humidity (1000 t),Italy,2012,364.87
+PR_HU_EU,LT,Artichokes,Harvested production in EU standard humidity (1000 t),Lithuania,2012,0
+PR_HU_EU,LU,Artichokes,Harvested production in EU standard humidity (1000 t),Luxembourg,2012,0
+PR_HU_EU,LV,Artichokes,Harvested production in EU standard humidity (1000 t),Latvia,2012,0
+PR_HU_EU,ME,Artichokes,Harvested production in EU standard humidity (1000 t),Montenegro,2012,0
+PR_HU_EU,MK,Artichokes,Harvested production in EU standard humidity (1000 t),North Macedonia,2012,0
+PR_HU_EU,MT,Artichokes,Harvested production in EU standard humidity (1000 t),Malta,2012,1.6
+PR_HU_EU,NL,Artichokes,Harvested production in EU standard humidity (1000 t),Netherlands,2012,0
+PR_HU_EU,PL,Artichokes,Harvested production in EU standard humidity (1000 t),Poland,2012,0
+PR_HU_EU,PT,Artichokes,Harvested production in EU standard humidity (1000 t),Portugal,2012,0.02
+PR_HU_EU,RO,Artichokes,Harvested production in EU standard humidity (1000 t),Romania,2012,0
+PR_HU_EU,RS,Artichokes,Harvested production in EU standard humidity (1000 t),Serbia,2012,0
+PR_HU_EU,SE,Artichokes,Harvested production in EU standard humidity (1000 t),Sweden,2012,0
+PR_HU_EU,SI,Artichokes,Harvested production in EU standard humidity (1000 t),Slovenia,2012,0
+PR_HU_EU,SK,Artichokes,Harvested production in EU standard humidity (1000 t),Slovakia,2012,0
+PR_HU_EU,TR,Artichokes,Harvested production in EU standard humidity (1000 t),Turkey,2012,32
+PR_HU_EU,UK,Artichokes,Harvested production in EU standard humidity (1000 t),United Kingdom,2012,0
+PR_HU_EU,XK,Artichokes,Harvested production in EU standard humidity (1000 t),Kosovo (under United Nations Security Council Resolution 1244/99),2012,0
+AR,AT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Austria,2011,0
+AR,BA,Artichokes,Area (cultivation/harvested/production) (1000 ha),Bosnia and Herzegovina,2011,0
+AR,BE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Belgium,2011,0
+AR,BG,Artichokes,Area (cultivation/harvested/production) (1000 ha),Bulgaria,2011,0
+AR,CY,Artichokes,Area (cultivation/harvested/production) (1000 ha),Cyprus,2011,0.13
+AR,CZ,Artichokes,Area (cultivation/harvested/production) (1000 ha),Czechia,2011,0
+AR,DE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Germany (until 1990 former territory of the FRG),2011,0
+AR,DK,Artichokes,Area (cultivation/harvested/production) (1000 ha),Denmark,2011,0
+AR,EE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Estonia,2011,0
+AR,EL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Greece,2011,2.24
+AR,ES,Artichokes,Area (cultivation/harvested/production) (1000 ha),Spain,2011,15.14
+AR,EU,Artichokes,Area (cultivation/harvested/production) (1000 ha),"European Union (EU6-1958, EU9-1973, EU10-1981, EU12-1986, EU15-1995, EU25-2004, EU27-2007, EU28-2013, EU27-2020)",2011,75.63
+AR,EU27_2020,Artichokes,Area (cultivation/harvested/production) (1000 ha),European Union - 27 countries (from 2020),2011,75.63
+AR,EU28,Artichokes,Area (cultivation/harvested/production) (1000 ha),European Union - 28 countries (2013-2020),2011,75.63
+AR,FI,Artichokes,Area (cultivation/harvested/production) (1000 ha),Finland,2011,0
+AR,FR,Artichokes,Area (cultivation/harvested/production) (1000 ha),France,2011,8.5
+AR,HR,Artichokes,Area (cultivation/harvested/production) (1000 ha),Croatia,2011,0
+AR,HU,Artichokes,Area (cultivation/harvested/production) (1000 ha),Hungary,2011,0
+AR,IE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Ireland,2011,0
+AR,IS,Artichokes,Area (cultivation/harvested/production) (1000 ha),Iceland,2011,0
+AR,IT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Italy,2011,49.58
+AR,LT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Lithuania,2011,0
+AR,LU,Artichokes,Area (cultivation/harvested/production) (1000 ha),Luxembourg,2011,0
+AR,LV,Artichokes,Area (cultivation/harvested/production) (1000 ha),Latvia,2011,0
+AR,ME,Artichokes,Area (cultivation/harvested/production) (1000 ha),Montenegro,2011,0
+AR,MK,Artichokes,Area (cultivation/harvested/production) (1000 ha),North Macedonia,2011,0
+AR,MT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Malta,2011,0
+AR,NL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Netherlands,2011,0
+AR,PL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Poland,2011,0
+AR,PT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Portugal,2011,0.03
+AR,RO,Artichokes,Area (cultivation/harvested/production) (1000 ha),Romania,2011,0
+AR,RS,Artichokes,Area (cultivation/harvested/production) (1000 ha),Serbia,2011,0
+AR,SE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Sweden,2011,0
+AR,SI,Artichokes,Area (cultivation/harvested/production) (1000 ha),Slovenia,2011,0
+AR,SK,Artichokes,Area (cultivation/harvested/production) (1000 ha),Slovakia,2011,0
+AR,TR,Artichokes,Area (cultivation/harvested/production) (1000 ha),Turkey,2011,3
+AR,UK,Artichokes,Area (cultivation/harvested/production) (1000 ha),United Kingdom,2011,0
+AR,XK,Artichokes,Area (cultivation/harvested/production) (1000 ha),Kosovo (under United Nations Security Council Resolution 1244/99),2011,0
+PR_HU_EU,AT,Artichokes,Harvested production in EU standard humidity (1000 t),Austria,2011,0
+PR_HU_EU,BA,Artichokes,Harvested production in EU standard humidity (1000 t),Bosnia and Herzegovina,2011,0
+PR_HU_EU,BE,Artichokes,Harvested production in EU standard humidity (1000 t),Belgium,2011,0
+PR_HU_EU,BG,Artichokes,Harvested production in EU standard humidity (1000 t),Bulgaria,2011,0
+PR_HU_EU,CY,Artichokes,Harvested production in EU standard humidity (1000 t),Cyprus,2011,2.56
+PR_HU_EU,CZ,Artichokes,Harvested production in EU standard humidity (1000 t),Czechia,2011,0
+PR_HU_EU,DE,Artichokes,Harvested production in EU standard humidity (1000 t),Germany (until 1990 former territory of the FRG),2011,0
+PR_HU_EU,DK,Artichokes,Harvested production in EU standard humidity (1000 t),Denmark,2011,0
+PR_HU_EU,EE,Artichokes,Harvested production in EU standard humidity (1000 t),Estonia,2011,0
+PR_HU_EU,EL,Artichokes,Harvested production in EU standard humidity (1000 t),Greece,2011,38.02
+PR_HU_EU,ES,Artichokes,Harvested production in EU standard humidity (1000 t),Spain,2011,182.12
+PR_HU_EU,EU,Artichokes,Harvested production in EU standard humidity (1000 t),"European Union (EU6-1958, EU9-1973, EU10-1981, EU12-1986, EU15-1995, EU25-2004, EU27-2007, EU28-2013, EU27-2020)",2011,747.63
+PR_HU_EU,EU27_2020,Artichokes,Harvested production in EU standard humidity (1000 t),European Union - 27 countries (from 2020),2011,747.63
+PR_HU_EU,EU28,Artichokes,Harvested production in EU standard humidity (1000 t),European Union - 28 countries (2013-2020),2011,747.63
+PR_HU_EU,FI,Artichokes,Harvested production in EU standard humidity (1000 t),Finland,2011,0
+PR_HU_EU,FR,Artichokes,Harvested production in EU standard humidity (1000 t),France,2011,48.88
+PR_HU_EU,HR,Artichokes,Harvested production in EU standard humidity (1000 t),Croatia,2011,0
+PR_HU_EU,HU,Artichokes,Harvested production in EU standard humidity (1000 t),Hungary,2011,0
+PR_HU_EU,IE,Artichokes,Harvested production in EU standard humidity (1000 t),Ireland,2011,0
+PR_HU_EU,IS,Artichokes,Harvested production in EU standard humidity (1000 t),Iceland,2011,0
+PR_HU_EU,IT,Artichokes,Harvested production in EU standard humidity (1000 t),Italy,2011,474.55
+PR_HU_EU,LT,Artichokes,Harvested production in EU standard humidity (1000 t),Lithuania,2011,0
+PR_HU_EU,LU,Artichokes,Harvested production in EU standard humidity (1000 t),Luxembourg,2011,0
+PR_HU_EU,LV,Artichokes,Harvested production in EU standard humidity (1000 t),Latvia,2011,0
+PR_HU_EU,ME,Artichokes,Harvested production in EU standard humidity (1000 t),Montenegro,2011,0
+PR_HU_EU,MK,Artichokes,Harvested production in EU standard humidity (1000 t),North Macedonia,2011,0
+PR_HU_EU,MT,Artichokes,Harvested production in EU standard humidity (1000 t),Malta,2011,1.49
+PR_HU_EU,NL,Artichokes,Harvested production in EU standard humidity (1000 t),Netherlands,2011,0
+PR_HU_EU,PL,Artichokes,Harvested production in EU standard humidity (1000 t),Poland,2011,0
+PR_HU_EU,PT,Artichokes,Harvested production in EU standard humidity (1000 t),Portugal,2011,0.02
+PR_HU_EU,RO,Artichokes,Harvested production in EU standard humidity (1000 t),Romania,2011,0
+PR_HU_EU,RS,Artichokes,Harvested production in EU standard humidity (1000 t),Serbia,2011,0
+PR_HU_EU,SE,Artichokes,Harvested production in EU standard humidity (1000 t),Sweden,2011,0
+PR_HU_EU,SI,Artichokes,Harvested production in EU standard humidity (1000 t),Slovenia,2011,0
+PR_HU_EU,SK,Artichokes,Harvested production in EU standard humidity (1000 t),Slovakia,2011,0
+PR_HU_EU,TR,Artichokes,Harvested production in EU standard humidity (1000 t),Turkey,2011,33
+PR_HU_EU,UK,Artichokes,Harvested production in EU standard humidity (1000 t),United Kingdom,2011,0
+PR_HU_EU,XK,Artichokes,Harvested production in EU standard humidity (1000 t),Kosovo (under United Nations Security Council Resolution 1244/99),2011,0
+AR,AT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Austria,2010,0
+AR,BA,Artichokes,Area (cultivation/harvested/production) (1000 ha),Bosnia and Herzegovina,2010,0
+AR,BE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Belgium,2010,0
+AR,BG,Artichokes,Area (cultivation/harvested/production) (1000 ha),Bulgaria,2010,0
+AR,CY,Artichokes,Area (cultivation/harvested/production) (1000 ha),Cyprus,2010,0.12
+AR,CZ,Artichokes,Area (cultivation/harvested/production) (1000 ha),Czechia,2010,0
+AR,DE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Germany (until 1990 former territory of the FRG),2010,0
+AR,DK,Artichokes,Area (cultivation/harvested/production) (1000 ha),Denmark,2010,0
+AR,EE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Estonia,2010,0
+AR,EL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Greece,2010,0.66
+AR,ES,Artichokes,Area (cultivation/harvested/production) (1000 ha),Spain,2010,14.73
+AR,FI,Artichokes,Area (cultivation/harvested/production) (1000 ha),Finland,2010,0
+AR,FR,Artichokes,Area (cultivation/harvested/production) (1000 ha),France,2010,8.79
+AR,HR,Artichokes,Area (cultivation/harvested/production) (1000 ha),Croatia,2010,0
+AR,HU,Artichokes,Area (cultivation/harvested/production) (1000 ha),Hungary,2010,0
+AR,IE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Ireland,2010,0
+AR,IS,Artichokes,Area (cultivation/harvested/production) (1000 ha),Iceland,2010,0
+AR,IT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Italy,2010,50.32
+AR,LT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Lithuania,2010,0
+AR,LU,Artichokes,Area (cultivation/harvested/production) (1000 ha),Luxembourg,2010,0
+AR,LV,Artichokes,Area (cultivation/harvested/production) (1000 ha),Latvia,2010,0
+AR,ME,Artichokes,Area (cultivation/harvested/production) (1000 ha),Montenegro,2010,0
+AR,MK,Artichokes,Area (cultivation/harvested/production) (1000 ha),North Macedonia,2010,0
+AR,MT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Malta,2010,0
+AR,NL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Netherlands,2010,0
+AR,PL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Poland,2010,0
+AR,PT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Portugal,2010,0
+AR,RO,Artichokes,Area (cultivation/harvested/production) (1000 ha),Romania,2010,0
+AR,RS,Artichokes,Area (cultivation/harvested/production) (1000 ha),Serbia,2010,0
+AR,SE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Sweden,2010,0
+AR,SI,Artichokes,Area (cultivation/harvested/production) (1000 ha),Slovenia,2010,0
+AR,SK,Artichokes,Area (cultivation/harvested/production) (1000 ha),Slovakia,2010,0
+AR,UK,Artichokes,Area (cultivation/harvested/production) (1000 ha),United Kingdom,2010,0
+AR,XK,Artichokes,Area (cultivation/harvested/production) (1000 ha),Kosovo (under United Nations Security Council Resolution 1244/99),2010,0
+PR_HU_EU,AT,Artichokes,Harvested production in EU standard humidity (1000 t),Austria,2010,0
+PR_HU_EU,BA,Artichokes,Harvested production in EU standard humidity (1000 t),Bosnia and Herzegovina,2010,0
+PR_HU_EU,BE,Artichokes,Harvested production in EU standard humidity (1000 t),Belgium,2010,0
+PR_HU_EU,BG,Artichokes,Harvested production in EU standard humidity (1000 t),Bulgaria,2010,0
+PR_HU_EU,CY,Artichokes,Harvested production in EU standard humidity (1000 t),Cyprus,2010,2.42
+PR_HU_EU,CZ,Artichokes,Harvested production in EU standard humidity (1000 t),Czechia,2010,0
+PR_HU_EU,DE,Artichokes,Harvested production in EU standard humidity (1000 t),Germany (until 1990 former territory of the FRG),2010,0
+PR_HU_EU,DK,Artichokes,Harvested production in EU standard humidity (1000 t),Denmark,2010,0
+PR_HU_EU,EE,Artichokes,Harvested production in EU standard humidity (1000 t),Estonia,2010,0
+PR_HU_EU,EL,Artichokes,Harvested production in EU standard humidity (1000 t),Greece,2010,7.06
+PR_HU_EU,ES,Artichokes,Harvested production in EU standard humidity (1000 t),Spain,2010,166.66
+PR_HU_EU,EU,Artichokes,Harvested production in EU standard humidity (1000 t),"European Union (EU6-1958, EU9-1973, EU10-1981, EU12-1986, EU15-1995, EU25-2004, EU27-2007, EU28-2013, EU27-2020)",2010,706.12
+PR_HU_EU,EU27_2020,Artichokes,Harvested production in EU standard humidity (1000 t),European Union - 27 countries (from 2020),2010,706.12
+PR_HU_EU,EU28,Artichokes,Harvested production in EU standard humidity (1000 t),European Union - 28 countries (2013-2020),2010,706.12
+PR_HU_EU,FI,Artichokes,Harvested production in EU standard humidity (1000 t),Finland,2010,0
+PR_HU_EU,FR,Artichokes,Harvested production in EU standard humidity (1000 t),France,2010,48.3
+PR_HU_EU,HR,Artichokes,Harvested production in EU standard humidity (1000 t),Croatia,2010,0
+PR_HU_EU,HU,Artichokes,Harvested production in EU standard humidity (1000 t),Hungary,2010,0
+PR_HU_EU,IE,Artichokes,Harvested production in EU standard humidity (1000 t),Ireland,2010,0
+PR_HU_EU,IS,Artichokes,Harvested production in EU standard humidity (1000 t),Iceland,2010,0
+PR_HU_EU,IT,Artichokes,Harvested production in EU standard humidity (1000 t),Italy,2010,480.11
+PR_HU_EU,LT,Artichokes,Harvested production in EU standard humidity (1000 t),Lithuania,2010,0
+PR_HU_EU,LU,Artichokes,Harvested production in EU standard humidity (1000 t),Luxembourg,2010,0
+PR_HU_EU,LV,Artichokes,Harvested production in EU standard humidity (1000 t),Latvia,2010,0
+PR_HU_EU,ME,Artichokes,Harvested production in EU standard humidity (1000 t),Montenegro,2010,0
+PR_HU_EU,MK,Artichokes,Harvested production in EU standard humidity (1000 t),North Macedonia,2010,0
+PR_HU_EU,MT,Artichokes,Harvested production in EU standard humidity (1000 t),Malta,2010,1.57
+PR_HU_EU,NL,Artichokes,Harvested production in EU standard humidity (1000 t),Netherlands,2010,0
+PR_HU_EU,PL,Artichokes,Harvested production in EU standard humidity (1000 t),Poland,2010,0
+PR_HU_EU,PT,Artichokes,Harvested production in EU standard humidity (1000 t),Portugal,2010,0
+PR_HU_EU,RO,Artichokes,Harvested production in EU standard humidity (1000 t),Romania,2010,0
+PR_HU_EU,RS,Artichokes,Harvested production in EU standard humidity (1000 t),Serbia,2010,0
+PR_HU_EU,SE,Artichokes,Harvested production in EU standard humidity (1000 t),Sweden,2010,0
+PR_HU_EU,SI,Artichokes,Harvested production in EU standard humidity (1000 t),Slovenia,2010,0
+PR_HU_EU,SK,Artichokes,Harvested production in EU standard humidity (1000 t),Slovakia,2010,0
+PR_HU_EU,UK,Artichokes,Harvested production in EU standard humidity (1000 t),United Kingdom,2010,0
+PR_HU_EU,XK,Artichokes,Harvested production in EU standard humidity (1000 t),Kosovo (under United Nations Security Council Resolution 1244/99),2010,0
+AR,AT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Austria,2009,0
+AR,BA,Artichokes,Area (cultivation/harvested/production) (1000 ha),Bosnia and Herzegovina,2009,0
+AR,BE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Belgium,2009,0
+AR,BG,Artichokes,Area (cultivation/harvested/production) (1000 ha),Bulgaria,2009,0
+AR,CY,Artichokes,Area (cultivation/harvested/production) (1000 ha),Cyprus,2009,0.13
+AR,CZ,Artichokes,Area (cultivation/harvested/production) (1000 ha),Czechia,2009,0
+AR,DE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Germany (until 1990 former territory of the FRG),2009,0
+AR,DK,Artichokes,Area (cultivation/harvested/production) (1000 ha),Denmark,2009,0
+AR,EE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Estonia,2009,0
+AR,EL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Greece,2009,2.2
+AR,ES,Artichokes,Area (cultivation/harvested/production) (1000 ha),Spain,2009,16.5
+AR,FI,Artichokes,Area (cultivation/harvested/production) (1000 ha),Finland,2009,0
+AR,HR,Artichokes,Area (cultivation/harvested/production) (1000 ha),Croatia,2009,0
+AR,IE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Ireland,2009,0
+AR,IS,Artichokes,Area (cultivation/harvested/production) (1000 ha),Iceland,2009,0
+AR,IT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Italy,2009,50.7
+AR,LT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Lithuania,2009,0
+AR,LU,Artichokes,Area (cultivation/harvested/production) (1000 ha),Luxembourg,2009,0
+AR,LV,Artichokes,Area (cultivation/harvested/production) (1000 ha),Latvia,2009,0
+AR,ME,Artichokes,Area (cultivation/harvested/production) (1000 ha),Montenegro,2009,0
+AR,MK,Artichokes,Area (cultivation/harvested/production) (1000 ha),North Macedonia,2009,0
+AR,MT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Malta,2009,0
+AR,NL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Netherlands,2009,0
+AR,PL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Poland,2009,0
+AR,PT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Portugal,2009,0
+AR,RO,Artichokes,Area (cultivation/harvested/production) (1000 ha),Romania,2009,0
+AR,RS,Artichokes,Area (cultivation/harvested/production) (1000 ha),Serbia,2009,0
+AR,SE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Sweden,2009,0
+AR,SI,Artichokes,Area (cultivation/harvested/production) (1000 ha),Slovenia,2009,0
+AR,SK,Artichokes,Area (cultivation/harvested/production) (1000 ha),Slovakia,2009,0
+AR,UK,Artichokes,Area (cultivation/harvested/production) (1000 ha),United Kingdom,2009,0
+AR,XK,Artichokes,Area (cultivation/harvested/production) (1000 ha),Kosovo (under United Nations Security Council Resolution 1244/99),2009,0
+PR_HU_EU,AT,Artichokes,Harvested production in EU standard humidity (1000 t),Austria,2009,0
+PR_HU_EU,BA,Artichokes,Harvested production in EU standard humidity (1000 t),Bosnia and Herzegovina,2009,0
+PR_HU_EU,BE,Artichokes,Harvested production in EU standard humidity (1000 t),Belgium,2009,0
+PR_HU_EU,BG,Artichokes,Harvested production in EU standard humidity (1000 t),Bulgaria,2009,0
+PR_HU_EU,CY,Artichokes,Harvested production in EU standard humidity (1000 t),Cyprus,2009,2.52
+PR_HU_EU,CZ,Artichokes,Harvested production in EU standard humidity (1000 t),Czechia,2009,0
+PR_HU_EU,DE,Artichokes,Harvested production in EU standard humidity (1000 t),Germany (until 1990 former territory of the FRG),2009,0
+PR_HU_EU,DK,Artichokes,Harvested production in EU standard humidity (1000 t),Denmark,2009,0
+PR_HU_EU,EE,Artichokes,Harvested production in EU standard humidity (1000 t),Estonia,2009,0
+PR_HU_EU,EL,Artichokes,Harvested production in EU standard humidity (1000 t),Greece,2009,27.7
+PR_HU_EU,ES,Artichokes,Harvested production in EU standard humidity (1000 t),Spain,2009,198.9
+PR_HU_EU,FI,Artichokes,Harvested production in EU standard humidity (1000 t),Finland,2009,0
+PR_HU_EU,HR,Artichokes,Harvested production in EU standard humidity (1000 t),Croatia,2009,0
+PR_HU_EU,HU,Artichokes,Harvested production in EU standard humidity (1000 t),Hungary,2009,0
+PR_HU_EU,IE,Artichokes,Harvested production in EU standard humidity (1000 t),Ireland,2009,0
+PR_HU_EU,IS,Artichokes,Harvested production in EU standard humidity (1000 t),Iceland,2009,0
+PR_HU_EU,IT,Artichokes,Harvested production in EU standard humidity (1000 t),Italy,2009,486.6
+PR_HU_EU,LT,Artichokes,Harvested production in EU standard humidity (1000 t),Lithuania,2009,0
+PR_HU_EU,LU,Artichokes,Harvested production in EU standard humidity (1000 t),Luxembourg,2009,0
+PR_HU_EU,LV,Artichokes,Harvested production in EU standard humidity (1000 t),Latvia,2009,0
+PR_HU_EU,ME,Artichokes,Harvested production in EU standard humidity (1000 t),Montenegro,2009,0
+PR_HU_EU,MK,Artichokes,Harvested production in EU standard humidity (1000 t),North Macedonia,2009,0
+PR_HU_EU,MT,Artichokes,Harvested production in EU standard humidity (1000 t),Malta,2009,1.11
+PR_HU_EU,NL,Artichokes,Harvested production in EU standard humidity (1000 t),Netherlands,2009,0
+PR_HU_EU,PL,Artichokes,Harvested production in EU standard humidity (1000 t),Poland,2009,0
+PR_HU_EU,PT,Artichokes,Harvested production in EU standard humidity (1000 t),Portugal,2009,0
+PR_HU_EU,RO,Artichokes,Harvested production in EU standard humidity (1000 t),Romania,2009,0
+PR_HU_EU,RS,Artichokes,Harvested production in EU standard humidity (1000 t),Serbia,2009,0
+PR_HU_EU,SE,Artichokes,Harvested production in EU standard humidity (1000 t),Sweden,2009,0
+PR_HU_EU,SI,Artichokes,Harvested production in EU standard humidity (1000 t),Slovenia,2009,0
+PR_HU_EU,SK,Artichokes,Harvested production in EU standard humidity (1000 t),Slovakia,2009,0
+PR_HU_EU,TR,Artichokes,Harvested production in EU standard humidity (1000 t),Turkey,2009,34
+PR_HU_EU,UK,Artichokes,Harvested production in EU standard humidity (1000 t),United Kingdom,2009,0
+PR_HU_EU,XK,Artichokes,Harvested production in EU standard humidity (1000 t),Kosovo (under United Nations Security Council Resolution 1244/99),2009,0
+AR,AT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Austria,2008,0
+AR,BA,Artichokes,Area (cultivation/harvested/production) (1000 ha),Bosnia and Herzegovina,2008,0
+AR,BE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Belgium,2008,0
+AR,BG,Artichokes,Area (cultivation/harvested/production) (1000 ha),Bulgaria,2008,0
+AR,CY,Artichokes,Area (cultivation/harvested/production) (1000 ha),Cyprus,2008,0.11
+AR,CZ,Artichokes,Area (cultivation/harvested/production) (1000 ha),Czechia,2008,0
+AR,DE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Germany (until 1990 former territory of the FRG),2008,0
+AR,DK,Artichokes,Area (cultivation/harvested/production) (1000 ha),Denmark,2008,0
+AR,EE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Estonia,2008,0
+AR,EL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Greece,2008,1.81
+AR,ES,Artichokes,Area (cultivation/harvested/production) (1000 ha),Spain,2008,16.4
+AR,FI,Artichokes,Area (cultivation/harvested/production) (1000 ha),Finland,2008,0
+AR,HR,Artichokes,Area (cultivation/harvested/production) (1000 ha),Croatia,2008,0
+AR,IE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Ireland,2008,0
+AR,IS,Artichokes,Area (cultivation/harvested/production) (1000 ha),Iceland,2008,0
+AR,IT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Italy,2008,50
+AR,LT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Lithuania,2008,0
+AR,LU,Artichokes,Area (cultivation/harvested/production) (1000 ha),Luxembourg,2008,0
+AR,LV,Artichokes,Area (cultivation/harvested/production) (1000 ha),Latvia,2008,0
+AR,ME,Artichokes,Area (cultivation/harvested/production) (1000 ha),Montenegro,2008,0
+AR,MK,Artichokes,Area (cultivation/harvested/production) (1000 ha),North Macedonia,2008,0
+AR,MT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Malta,2008,0
+AR,NL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Netherlands,2008,0
+AR,PL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Poland,2008,0
+AR,PT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Portugal,2008,0
+AR,RO,Artichokes,Area (cultivation/harvested/production) (1000 ha),Romania,2008,0
+AR,RS,Artichokes,Area (cultivation/harvested/production) (1000 ha),Serbia,2008,0
+AR,SE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Sweden,2008,0
+AR,SI,Artichokes,Area (cultivation/harvested/production) (1000 ha),Slovenia,2008,0
+AR,SK,Artichokes,Area (cultivation/harvested/production) (1000 ha),Slovakia,2008,0
+AR,TR,Artichokes,Area (cultivation/harvested/production) (1000 ha),Turkey,2008,3
+AR,UK,Artichokes,Area (cultivation/harvested/production) (1000 ha),United Kingdom,2008,0
+AR,XK,Artichokes,Area (cultivation/harvested/production) (1000 ha),Kosovo (under United Nations Security Council Resolution 1244/99),2008,0
+PR_HU_EU,AT,Artichokes,Harvested production in EU standard humidity (1000 t),Austria,2008,0
+PR_HU_EU,BA,Artichokes,Harvested production in EU standard humidity (1000 t),Bosnia and Herzegovina,2008,0
+PR_HU_EU,BE,Artichokes,Harvested production in EU standard humidity (1000 t),Belgium,2008,0
+PR_HU_EU,BG,Artichokes,Harvested production in EU standard humidity (1000 t),Bulgaria,2008,0
+PR_HU_EU,CY,Artichokes,Harvested production in EU standard humidity (1000 t),Cyprus,2008,2.67
+PR_HU_EU,CZ,Artichokes,Harvested production in EU standard humidity (1000 t),Czechia,2008,0
+PR_HU_EU,DE,Artichokes,Harvested production in EU standard humidity (1000 t),Germany (until 1990 former territory of the FRG),2008,0
+PR_HU_EU,DK,Artichokes,Harvested production in EU standard humidity (1000 t),Denmark,2008,0
+PR_HU_EU,EE,Artichokes,Harvested production in EU standard humidity (1000 t),Estonia,2008,0
+PR_HU_EU,EL,Artichokes,Harvested production in EU standard humidity (1000 t),Greece,2008,21.39
+PR_HU_EU,ES,Artichokes,Harvested production in EU standard humidity (1000 t),Spain,2008,203.9
+PR_HU_EU,FI,Artichokes,Harvested production in EU standard humidity (1000 t),Finland,2008,0
+PR_HU_EU,HR,Artichokes,Harvested production in EU standard humidity (1000 t),Croatia,2008,0
+PR_HU_EU,HU,Artichokes,Harvested production in EU standard humidity (1000 t),Hungary,2008,0
+PR_HU_EU,IE,Artichokes,Harvested production in EU standard humidity (1000 t),Ireland,2008,0
+PR_HU_EU,IS,Artichokes,Harvested production in EU standard humidity (1000 t),Iceland,2008,0
+PR_HU_EU,IT,Artichokes,Harvested production in EU standard humidity (1000 t),Italy,2008,483.6
+PR_HU_EU,LT,Artichokes,Harvested production in EU standard humidity (1000 t),Lithuania,2008,0
+PR_HU_EU,LU,Artichokes,Harvested production in EU standard humidity (1000 t),Luxembourg,2008,0
+PR_HU_EU,LV,Artichokes,Harvested production in EU standard humidity (1000 t),Latvia,2008,0
+PR_HU_EU,ME,Artichokes,Harvested production in EU standard humidity (1000 t),Montenegro,2008,0
+PR_HU_EU,MK,Artichokes,Harvested production in EU standard humidity (1000 t),North Macedonia,2008,0
+PR_HU_EU,MT,Artichokes,Harvested production in EU standard humidity (1000 t),Malta,2008,1.36
+PR_HU_EU,NL,Artichokes,Harvested production in EU standard humidity (1000 t),Netherlands,2008,0
+PR_HU_EU,PL,Artichokes,Harvested production in EU standard humidity (1000 t),Poland,2008,0
+PR_HU_EU,PT,Artichokes,Harvested production in EU standard humidity (1000 t),Portugal,2008,0
+PR_HU_EU,RO,Artichokes,Harvested production in EU standard humidity (1000 t),Romania,2008,0
+PR_HU_EU,RS,Artichokes,Harvested production in EU standard humidity (1000 t),Serbia,2008,0
+PR_HU_EU,SE,Artichokes,Harvested production in EU standard humidity (1000 t),Sweden,2008,0
+PR_HU_EU,SI,Artichokes,Harvested production in EU standard humidity (1000 t),Slovenia,2008,0
+PR_HU_EU,SK,Artichokes,Harvested production in EU standard humidity (1000 t),Slovakia,2008,0
+PR_HU_EU,TR,Artichokes,Harvested production in EU standard humidity (1000 t),Turkey,2008,36
+PR_HU_EU,UK,Artichokes,Harvested production in EU standard humidity (1000 t),United Kingdom,2008,0
+PR_HU_EU,XK,Artichokes,Harvested production in EU standard humidity (1000 t),Kosovo (under United Nations Security Council Resolution 1244/99),2008,0
+AR,AT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Austria,2007,0
+AR,BA,Artichokes,Area (cultivation/harvested/production) (1000 ha),Bosnia and Herzegovina,2007,0
+AR,BE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Belgium,2007,0
+AR,BG,Artichokes,Area (cultivation/harvested/production) (1000 ha),Bulgaria,2007,0
+AR,CY,Artichokes,Area (cultivation/harvested/production) (1000 ha),Cyprus,2007,0.16
+AR,CZ,Artichokes,Area (cultivation/harvested/production) (1000 ha),Czechia,2007,0
+AR,DE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Germany (until 1990 former territory of the FRG),2007,0
+AR,DK,Artichokes,Area (cultivation/harvested/production) (1000 ha),Denmark,2007,0
+AR,EE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Estonia,2007,0
+AR,EL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Greece,2007,2
+AR,ES,Artichokes,Area (cultivation/harvested/production) (1000 ha),Spain,2007,16.8
+AR,FI,Artichokes,Area (cultivation/harvested/production) (1000 ha),Finland,2007,0
+AR,FR,Artichokes,Area (cultivation/harvested/production) (1000 ha),France,2007,9.7
+AR,HR,Artichokes,Area (cultivation/harvested/production) (1000 ha),Croatia,2007,0
+AR,IE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Ireland,2007,0
+AR,IS,Artichokes,Area (cultivation/harvested/production) (1000 ha),Iceland,2007,0
+AR,IT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Italy,2007,50.1
+AR,LT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Lithuania,2007,0
+AR,LU,Artichokes,Area (cultivation/harvested/production) (1000 ha),Luxembourg,2007,0
+AR,LV,Artichokes,Area (cultivation/harvested/production) (1000 ha),Latvia,2007,0
+AR,ME,Artichokes,Area (cultivation/harvested/production) (1000 ha),Montenegro,2007,0
+AR,MK,Artichokes,Area (cultivation/harvested/production) (1000 ha),North Macedonia,2007,0
+AR,MT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Malta,2007,0
+AR,NL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Netherlands,2007,0
+AR,PL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Poland,2007,0
+AR,PT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Portugal,2007,0
+AR,RO,Artichokes,Area (cultivation/harvested/production) (1000 ha),Romania,2007,0
+AR,RS,Artichokes,Area (cultivation/harvested/production) (1000 ha),Serbia,2007,0
+AR,SE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Sweden,2007,0
+AR,SI,Artichokes,Area (cultivation/harvested/production) (1000 ha),Slovenia,2007,0
+AR,SK,Artichokes,Area (cultivation/harvested/production) (1000 ha),Slovakia,2007,0
+AR,TR,Artichokes,Area (cultivation/harvested/production) (1000 ha),Turkey,2007,2.8
+AR,UK,Artichokes,Area (cultivation/harvested/production) (1000 ha),United Kingdom,2007,0
+AR,XK,Artichokes,Area (cultivation/harvested/production) (1000 ha),Kosovo (under United Nations Security Council Resolution 1244/99),2007,0
+PR_HU_EU,AT,Artichokes,Harvested production in EU standard humidity (1000 t),Austria,2007,0
+PR_HU_EU,BA,Artichokes,Harvested production in EU standard humidity (1000 t),Bosnia and Herzegovina,2007,0
+PR_HU_EU,BE,Artichokes,Harvested production in EU standard humidity (1000 t),Belgium,2007,0
+PR_HU_EU,BG,Artichokes,Harvested production in EU standard humidity (1000 t),Bulgaria,2007,0
+PR_HU_EU,CY,Artichokes,Harvested production in EU standard humidity (1000 t),Cyprus,2007,2.72
+PR_HU_EU,CZ,Artichokes,Harvested production in EU standard humidity (1000 t),Czechia,2007,0
+PR_HU_EU,DE,Artichokes,Harvested production in EU standard humidity (1000 t),Germany (until 1990 former territory of the FRG),2007,0
+PR_HU_EU,DK,Artichokes,Harvested production in EU standard humidity (1000 t),Denmark,2007,0
+PR_HU_EU,EE,Artichokes,Harvested production in EU standard humidity (1000 t),Estonia,2007,0
+PR_HU_EU,EL,Artichokes,Harvested production in EU standard humidity (1000 t),Greece,2007,25.55
+PR_HU_EU,ES,Artichokes,Harvested production in EU standard humidity (1000 t),Spain,2007,212.4
+PR_HU_EU,FI,Artichokes,Harvested production in EU standard humidity (1000 t),Finland,2007,0
+PR_HU_EU,FR,Artichokes,Harvested production in EU standard humidity (1000 t),France,2007,52.5
+PR_HU_EU,HR,Artichokes,Harvested production in EU standard humidity (1000 t),Croatia,2007,0
+PR_HU_EU,IE,Artichokes,Harvested production in EU standard humidity (1000 t),Ireland,2007,0
+PR_HU_EU,IS,Artichokes,Harvested production in EU standard humidity (1000 t),Iceland,2007,0
+PR_HU_EU,IT,Artichokes,Harvested production in EU standard humidity (1000 t),Italy,2007,474.3
+PR_HU_EU,LT,Artichokes,Harvested production in EU standard humidity (1000 t),Lithuania,2007,0
+PR_HU_EU,LU,Artichokes,Harvested production in EU standard humidity (1000 t),Luxembourg,2007,0
+PR_HU_EU,LV,Artichokes,Harvested production in EU standard humidity (1000 t),Latvia,2007,0
+PR_HU_EU,ME,Artichokes,Harvested production in EU standard humidity (1000 t),Montenegro,2007,0
+PR_HU_EU,MK,Artichokes,Harvested production in EU standard humidity (1000 t),North Macedonia,2007,0
+PR_HU_EU,MT,Artichokes,Harvested production in EU standard humidity (1000 t),Malta,2007,1.21
+PR_HU_EU,NL,Artichokes,Harvested production in EU standard humidity (1000 t),Netherlands,2007,0
+PR_HU_EU,PL,Artichokes,Harvested production in EU standard humidity (1000 t),Poland,2007,0
+PR_HU_EU,PT,Artichokes,Harvested production in EU standard humidity (1000 t),Portugal,2007,0
+PR_HU_EU,RO,Artichokes,Harvested production in EU standard humidity (1000 t),Romania,2007,0
+PR_HU_EU,RS,Artichokes,Harvested production in EU standard humidity (1000 t),Serbia,2007,0
+PR_HU_EU,SE,Artichokes,Harvested production in EU standard humidity (1000 t),Sweden,2007,0
+PR_HU_EU,SI,Artichokes,Harvested production in EU standard humidity (1000 t),Slovenia,2007,0
+PR_HU_EU,SK,Artichokes,Harvested production in EU standard humidity (1000 t),Slovakia,2007,0
+PR_HU_EU,TR,Artichokes,Harvested production in EU standard humidity (1000 t),Turkey,2007,33.8
+PR_HU_EU,UK,Artichokes,Harvested production in EU standard humidity (1000 t),United Kingdom,2007,0
+PR_HU_EU,XK,Artichokes,Harvested production in EU standard humidity (1000 t),Kosovo (under United Nations Security Council Resolution 1244/99),2007,0
+AR,AT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Austria,2006,0
+AR,BA,Artichokes,Area (cultivation/harvested/production) (1000 ha),Bosnia and Herzegovina,2006,0
+AR,BE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Belgium,2006,0
+AR,BG,Artichokes,Area (cultivation/harvested/production) (1000 ha),Bulgaria,2006,0
+AR,CY,Artichokes,Area (cultivation/harvested/production) (1000 ha),Cyprus,2006,0.17
+AR,CZ,Artichokes,Area (cultivation/harvested/production) (1000 ha),Czechia,2006,0
+AR,DE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Germany (until 1990 former territory of the FRG),2006,0
+AR,DK,Artichokes,Area (cultivation/harvested/production) (1000 ha),Denmark,2006,0
+AR,EE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Estonia,2006,0
+AR,EL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Greece,2006,2.4
+AR,ES,Artichokes,Area (cultivation/harvested/production) (1000 ha),Spain,2006,18.1
+AR,FI,Artichokes,Area (cultivation/harvested/production) (1000 ha),Finland,2006,0
+AR,FR,Artichokes,Area (cultivation/harvested/production) (1000 ha),France,2006,7.7
+AR,HR,Artichokes,Area (cultivation/harvested/production) (1000 ha),Croatia,2006,0
+AR,IE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Ireland,2006,0
+AR,IS,Artichokes,Area (cultivation/harvested/production) (1000 ha),Iceland,2006,0
+AR,IT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Italy,2006,50.4
+AR,LT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Lithuania,2006,0
+AR,LU,Artichokes,Area (cultivation/harvested/production) (1000 ha),Luxembourg,2006,0
+AR,LV,Artichokes,Area (cultivation/harvested/production) (1000 ha),Latvia,2006,0
+AR,MK,Artichokes,Area (cultivation/harvested/production) (1000 ha),North Macedonia,2006,0
+AR,MT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Malta,2006,0
+AR,NL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Netherlands,2006,0
+AR,PL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Poland,2006,0
+AR,PT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Portugal,2006,0
+AR,RO,Artichokes,Area (cultivation/harvested/production) (1000 ha),Romania,2006,0
+AR,RS,Artichokes,Area (cultivation/harvested/production) (1000 ha),Serbia,2006,0
+AR,SE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Sweden,2006,0
+AR,SI,Artichokes,Area (cultivation/harvested/production) (1000 ha),Slovenia,2006,0
+AR,SK,Artichokes,Area (cultivation/harvested/production) (1000 ha),Slovakia,2006,0
+AR,TR,Artichokes,Area (cultivation/harvested/production) (1000 ha),Turkey,2006,2.9
+AR,UK,Artichokes,Area (cultivation/harvested/production) (1000 ha),United Kingdom,2006,0
+AR,XK,Artichokes,Area (cultivation/harvested/production) (1000 ha),Kosovo (under United Nations Security Council Resolution 1244/99),2006,0
+PR_HU_EU,AT,Artichokes,Harvested production in EU standard humidity (1000 t),Austria,2006,0
+PR_HU_EU,BA,Artichokes,Harvested production in EU standard humidity (1000 t),Bosnia and Herzegovina,2006,0
+PR_HU_EU,BE,Artichokes,Harvested production in EU standard humidity (1000 t),Belgium,2006,0
+PR_HU_EU,BG,Artichokes,Harvested production in EU standard humidity (1000 t),Bulgaria,2006,0
+PR_HU_EU,CY,Artichokes,Harvested production in EU standard humidity (1000 t),Cyprus,2006,2.67
+PR_HU_EU,CZ,Artichokes,Harvested production in EU standard humidity (1000 t),Czechia,2006,0
+PR_HU_EU,DE,Artichokes,Harvested production in EU standard humidity (1000 t),Germany (until 1990 former territory of the FRG),2006,0
+PR_HU_EU,DK,Artichokes,Harvested production in EU standard humidity (1000 t),Denmark,2006,0
+PR_HU_EU,EE,Artichokes,Harvested production in EU standard humidity (1000 t),Estonia,2006,0
+PR_HU_EU,EL,Artichokes,Harvested production in EU standard humidity (1000 t),Greece,2006,24.1
+PR_HU_EU,ES,Artichokes,Harvested production in EU standard humidity (1000 t),Spain,2006,228.22
+PR_HU_EU,FI,Artichokes,Harvested production in EU standard humidity (1000 t),Finland,2006,0
+PR_HU_EU,FR,Artichokes,Harvested production in EU standard humidity (1000 t),France,2006,51.4
+PR_HU_EU,HR,Artichokes,Harvested production in EU standard humidity (1000 t),Croatia,2006,0
+PR_HU_EU,IE,Artichokes,Harvested production in EU standard humidity (1000 t),Ireland,2006,0
+PR_HU_EU,IS,Artichokes,Harvested production in EU standard humidity (1000 t),Iceland,2006,0
+PR_HU_EU,IT,Artichokes,Harvested production in EU standard humidity (1000 t),Italy,2006,469
+PR_HU_EU,LT,Artichokes,Harvested production in EU standard humidity (1000 t),Lithuania,2006,0
+PR_HU_EU,LU,Artichokes,Harvested production in EU standard humidity (1000 t),Luxembourg,2006,0
+PR_HU_EU,LV,Artichokes,Harvested production in EU standard humidity (1000 t),Latvia,2006,0
+PR_HU_EU,MK,Artichokes,Harvested production in EU standard humidity (1000 t),North Macedonia,2006,0
+PR_HU_EU,MT,Artichokes,Harvested production in EU standard humidity (1000 t),Malta,2006,1.11
+PR_HU_EU,NL,Artichokes,Harvested production in EU standard humidity (1000 t),Netherlands,2006,0
+PR_HU_EU,PL,Artichokes,Harvested production in EU standard humidity (1000 t),Poland,2006,0
+PR_HU_EU,PT,Artichokes,Harvested production in EU standard humidity (1000 t),Portugal,2006,0
+PR_HU_EU,RO,Artichokes,Harvested production in EU standard humidity (1000 t),Romania,2006,0
+PR_HU_EU,RS,Artichokes,Harvested production in EU standard humidity (1000 t),Serbia,2006,0
+PR_HU_EU,SE,Artichokes,Harvested production in EU standard humidity (1000 t),Sweden,2006,0
+PR_HU_EU,SI,Artichokes,Harvested production in EU standard humidity (1000 t),Slovenia,2006,0
+PR_HU_EU,SK,Artichokes,Harvested production in EU standard humidity (1000 t),Slovakia,2006,0
+PR_HU_EU,TR,Artichokes,Harvested production in EU standard humidity (1000 t),Turkey,2006,35
+PR_HU_EU,UK,Artichokes,Harvested production in EU standard humidity (1000 t),United Kingdom,2006,0
+PR_HU_EU,XK,Artichokes,Harvested production in EU standard humidity (1000 t),Kosovo (under United Nations Security Council Resolution 1244/99),2006,0
+AR,AT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Austria,2005,0
+AR,BA,Artichokes,Area (cultivation/harvested/production) (1000 ha),Bosnia and Herzegovina,2005,0
+AR,BE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Belgium,2005,0
+AR,BG,Artichokes,Area (cultivation/harvested/production) (1000 ha),Bulgaria,2005,0
+AR,CY,Artichokes,Area (cultivation/harvested/production) (1000 ha),Cyprus,2005,0.17
+AR,CZ,Artichokes,Area (cultivation/harvested/production) (1000 ha),Czechia,2005,0
+AR,DE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Germany (until 1990 former territory of the FRG),2005,0
+AR,DK,Artichokes,Area (cultivation/harvested/production) (1000 ha),Denmark,2005,0
+AR,EE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Estonia,2005,0
+AR,EL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Greece,2005,2.7
+AR,ES,Artichokes,Area (cultivation/harvested/production) (1000 ha),Spain,2005,18.8
+AR,FI,Artichokes,Area (cultivation/harvested/production) (1000 ha),Finland,2005,0
+AR,FR,Artichokes,Area (cultivation/harvested/production) (1000 ha),France,2005,10.2
+AR,HR,Artichokes,Area (cultivation/harvested/production) (1000 ha),Croatia,2005,0
+AR,IE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Ireland,2005,0
+AR,IS,Artichokes,Area (cultivation/harvested/production) (1000 ha),Iceland,2005,0
+AR,IT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Italy,2005,50.1
+AR,LT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Lithuania,2005,0
+AR,LU,Artichokes,Area (cultivation/harvested/production) (1000 ha),Luxembourg,2005,0
+AR,LV,Artichokes,Area (cultivation/harvested/production) (1000 ha),Latvia,2005,0
+AR,MK,Artichokes,Area (cultivation/harvested/production) (1000 ha),North Macedonia,2005,0
+AR,MT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Malta,2005,0
+AR,NL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Netherlands,2005,0
+AR,PL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Poland,2005,0
+AR,PT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Portugal,2005,0
+AR,RO,Artichokes,Area (cultivation/harvested/production) (1000 ha),Romania,2005,0
+AR,RS,Artichokes,Area (cultivation/harvested/production) (1000 ha),Serbia,2005,0
+AR,SE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Sweden,2005,0
+AR,SI,Artichokes,Area (cultivation/harvested/production) (1000 ha),Slovenia,2005,0
+AR,SK,Artichokes,Area (cultivation/harvested/production) (1000 ha),Slovakia,2005,0
+AR,TR,Artichokes,Area (cultivation/harvested/production) (1000 ha),Turkey,2005,2.8
+AR,UK,Artichokes,Area (cultivation/harvested/production) (1000 ha),United Kingdom,2005,0
+AR,XK,Artichokes,Area (cultivation/harvested/production) (1000 ha),Kosovo (under United Nations Security Council Resolution 1244/99),2005,0
+PR_HU_EU,AT,Artichokes,Harvested production in EU standard humidity (1000 t),Austria,2005,0
+PR_HU_EU,BA,Artichokes,Harvested production in EU standard humidity (1000 t),Bosnia and Herzegovina,2005,0
+PR_HU_EU,BE,Artichokes,Harvested production in EU standard humidity (1000 t),Belgium,2005,0
+PR_HU_EU,BG,Artichokes,Harvested production in EU standard humidity (1000 t),Bulgaria,2005,0
+PR_HU_EU,CY,Artichokes,Harvested production in EU standard humidity (1000 t),Cyprus,2005,2.74
+PR_HU_EU,CZ,Artichokes,Harvested production in EU standard humidity (1000 t),Czechia,2005,0
+PR_HU_EU,DE,Artichokes,Harvested production in EU standard humidity (1000 t),Germany (until 1990 former territory of the FRG),2005,0
+PR_HU_EU,DK,Artichokes,Harvested production in EU standard humidity (1000 t),Denmark,2005,0
+PR_HU_EU,EE,Artichokes,Harvested production in EU standard humidity (1000 t),Estonia,2005,0
+PR_HU_EU,EL,Artichokes,Harvested production in EU standard humidity (1000 t),Greece,2005,26
+PR_HU_EU,ES,Artichokes,Harvested production in EU standard humidity (1000 t),Spain,2005,200.1
+PR_HU_EU,FI,Artichokes,Harvested production in EU standard humidity (1000 t),Finland,2005,0
+PR_HU_EU,FR,Artichokes,Harvested production in EU standard humidity (1000 t),France,2005,50.1
+PR_HU_EU,HR,Artichokes,Harvested production in EU standard humidity (1000 t),Croatia,2005,0
+PR_HU_EU,IE,Artichokes,Harvested production in EU standard humidity (1000 t),Ireland,2005,0
+PR_HU_EU,IS,Artichokes,Harvested production in EU standard humidity (1000 t),Iceland,2005,0
+PR_HU_EU,IT,Artichokes,Harvested production in EU standard humidity (1000 t),Italy,2005,470
+PR_HU_EU,LT,Artichokes,Harvested production in EU standard humidity (1000 t),Lithuania,2005,0
+PR_HU_EU,LU,Artichokes,Harvested production in EU standard humidity (1000 t),Luxembourg,2005,0
+PR_HU_EU,LV,Artichokes,Harvested production in EU standard humidity (1000 t),Latvia,2005,0
+PR_HU_EU,MK,Artichokes,Harvested production in EU standard humidity (1000 t),North Macedonia,2005,0
+PR_HU_EU,MT,Artichokes,Harvested production in EU standard humidity (1000 t),Malta,2005,0.98
+PR_HU_EU,NL,Artichokes,Harvested production in EU standard humidity (1000 t),Netherlands,2005,0
+PR_HU_EU,PL,Artichokes,Harvested production in EU standard humidity (1000 t),Poland,2005,0
+PR_HU_EU,PT,Artichokes,Harvested production in EU standard humidity (1000 t),Portugal,2005,0
+PR_HU_EU,RO,Artichokes,Harvested production in EU standard humidity (1000 t),Romania,2005,0
+PR_HU_EU,RS,Artichokes,Harvested production in EU standard humidity (1000 t),Serbia,2005,0
+PR_HU_EU,SE,Artichokes,Harvested production in EU standard humidity (1000 t),Sweden,2005,0
+PR_HU_EU,SI,Artichokes,Harvested production in EU standard humidity (1000 t),Slovenia,2005,0
+PR_HU_EU,SK,Artichokes,Harvested production in EU standard humidity (1000 t),Slovakia,2005,0
+PR_HU_EU,TR,Artichokes,Harvested production in EU standard humidity (1000 t),Turkey,2005,36
+PR_HU_EU,UK,Artichokes,Harvested production in EU standard humidity (1000 t),United Kingdom,2005,0
+PR_HU_EU,XK,Artichokes,Harvested production in EU standard humidity (1000 t),Kosovo (under United Nations Security Council Resolution 1244/99),2005,0
+AR,AT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Austria,2004,0
+AR,BA,Artichokes,Area (cultivation/harvested/production) (1000 ha),Bosnia and Herzegovina,2004,0
+AR,BE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Belgium,2004,0
+AR,BG,Artichokes,Area (cultivation/harvested/production) (1000 ha),Bulgaria,2004,0
+AR,CY,Artichokes,Area (cultivation/harvested/production) (1000 ha),Cyprus,2004,0.17
+AR,CZ,Artichokes,Area (cultivation/harvested/production) (1000 ha),Czechia,2004,0
+AR,DE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Germany (until 1990 former territory of the FRG),2004,0
+AR,DK,Artichokes,Area (cultivation/harvested/production) (1000 ha),Denmark,2004,0
+AR,EE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Estonia,2004,0
+AR,EL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Greece,2004,2.7
+AR,ES,Artichokes,Area (cultivation/harvested/production) (1000 ha),Spain,2004,19.1
+AR,FI,Artichokes,Area (cultivation/harvested/production) (1000 ha),Finland,2004,0
+AR,FR,Artichokes,Area (cultivation/harvested/production) (1000 ha),France,2004,10.3
+AR,HR,Artichokes,Area (cultivation/harvested/production) (1000 ha),Croatia,2004,0
+AR,IE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Ireland,2004,0
+AR,IS,Artichokes,Area (cultivation/harvested/production) (1000 ha),Iceland,2004,0
+AR,IT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Italy,2004,50.1
+AR,LT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Lithuania,2004,0
+AR,LU,Artichokes,Area (cultivation/harvested/production) (1000 ha),Luxembourg,2004,0
+AR,LV,Artichokes,Area (cultivation/harvested/production) (1000 ha),Latvia,2004,0
+AR,MT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Malta,2004,0
+AR,NL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Netherlands,2004,0
+AR,PL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Poland,2004,0
+AR,PT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Portugal,2004,0
+AR,RO,Artichokes,Area (cultivation/harvested/production) (1000 ha),Romania,2004,0
+AR,RS,Artichokes,Area (cultivation/harvested/production) (1000 ha),Serbia,2004,0
+AR,SE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Sweden,2004,0
+AR,SI,Artichokes,Area (cultivation/harvested/production) (1000 ha),Slovenia,2004,0
+AR,SK,Artichokes,Area (cultivation/harvested/production) (1000 ha),Slovakia,2004,0
+AR,TR,Artichokes,Area (cultivation/harvested/production) (1000 ha),Turkey,2004,2.4
+AR,UK,Artichokes,Area (cultivation/harvested/production) (1000 ha),United Kingdom,2004,0
+AR,XK,Artichokes,Area (cultivation/harvested/production) (1000 ha),Kosovo (under United Nations Security Council Resolution 1244/99),2004,0
+PR_HU_EU,AT,Artichokes,Harvested production in EU standard humidity (1000 t),Austria,2004,0
+PR_HU_EU,BA,Artichokes,Harvested production in EU standard humidity (1000 t),Bosnia and Herzegovina,2004,0
+PR_HU_EU,BE,Artichokes,Harvested production in EU standard humidity (1000 t),Belgium,2004,0
+PR_HU_EU,BG,Artichokes,Harvested production in EU standard humidity (1000 t),Bulgaria,2004,0
+PR_HU_EU,CY,Artichokes,Harvested production in EU standard humidity (1000 t),Cyprus,2004,2.31
+PR_HU_EU,CZ,Artichokes,Harvested production in EU standard humidity (1000 t),Czechia,2004,0
+PR_HU_EU,DE,Artichokes,Harvested production in EU standard humidity (1000 t),Germany (until 1990 former territory of the FRG),2004,0
+PR_HU_EU,DK,Artichokes,Harvested production in EU standard humidity (1000 t),Denmark,2004,0
+PR_HU_EU,EE,Artichokes,Harvested production in EU standard humidity (1000 t),Estonia,2004,0
+PR_HU_EU,EL,Artichokes,Harvested production in EU standard humidity (1000 t),Greece,2004,25.6
+PR_HU_EU,ES,Artichokes,Harvested production in EU standard humidity (1000 t),Spain,2004,300.2
+PR_HU_EU,FI,Artichokes,Harvested production in EU standard humidity (1000 t),Finland,2004,0
+PR_HU_EU,FR,Artichokes,Harvested production in EU standard humidity (1000 t),France,2004,59.6
+PR_HU_EU,HR,Artichokes,Harvested production in EU standard humidity (1000 t),Croatia,2004,0
+PR_HU_EU,IE,Artichokes,Harvested production in EU standard humidity (1000 t),Ireland,2004,0
+PR_HU_EU,IS,Artichokes,Harvested production in EU standard humidity (1000 t),Iceland,2004,0
+PR_HU_EU,IT,Artichokes,Harvested production in EU standard humidity (1000 t),Italy,2004,489.2
+PR_HU_EU,LT,Artichokes,Harvested production in EU standard humidity (1000 t),Lithuania,2004,0
+PR_HU_EU,LU,Artichokes,Harvested production in EU standard humidity (1000 t),Luxembourg,2004,0
+PR_HU_EU,LV,Artichokes,Harvested production in EU standard humidity (1000 t),Latvia,2004,0
+PR_HU_EU,MT,Artichokes,Harvested production in EU standard humidity (1000 t),Malta,2004,1
+PR_HU_EU,NL,Artichokes,Harvested production in EU standard humidity (1000 t),Netherlands,2004,0
+PR_HU_EU,PL,Artichokes,Harvested production in EU standard humidity (1000 t),Poland,2004,0
+PR_HU_EU,PT,Artichokes,Harvested production in EU standard humidity (1000 t),Portugal,2004,0
+PR_HU_EU,RO,Artichokes,Harvested production in EU standard humidity (1000 t),Romania,2004,0
+PR_HU_EU,RS,Artichokes,Harvested production in EU standard humidity (1000 t),Serbia,2004,0
+PR_HU_EU,SE,Artichokes,Harvested production in EU standard humidity (1000 t),Sweden,2004,0
+PR_HU_EU,SI,Artichokes,Harvested production in EU standard humidity (1000 t),Slovenia,2004,0
+PR_HU_EU,SK,Artichokes,Harvested production in EU standard humidity (1000 t),Slovakia,2004,0
+PR_HU_EU,TR,Artichokes,Harvested production in EU standard humidity (1000 t),Turkey,2004,30
+PR_HU_EU,UK,Artichokes,Harvested production in EU standard humidity (1000 t),United Kingdom,2004,0
+PR_HU_EU,XK,Artichokes,Harvested production in EU standard humidity (1000 t),Kosovo (under United Nations Security Council Resolution 1244/99),2004,0
+AR,AT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Austria,2003,0
+AR,BA,Artichokes,Area (cultivation/harvested/production) (1000 ha),Bosnia and Herzegovina,2003,0
+AR,BE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Belgium,2003,0
+AR,BG,Artichokes,Area (cultivation/harvested/production) (1000 ha),Bulgaria,2003,0
+AR,CY,Artichokes,Area (cultivation/harvested/production) (1000 ha),Cyprus,2003,0
+AR,CZ,Artichokes,Area (cultivation/harvested/production) (1000 ha),Czechia,2003,0
+AR,DE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Germany (until 1990 former territory of the FRG),2003,0
+AR,DK,Artichokes,Area (cultivation/harvested/production) (1000 ha),Denmark,2003,0
+AR,EE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Estonia,2003,0
+AR,EL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Greece,2003,2.7
+AR,ES,Artichokes,Area (cultivation/harvested/production) (1000 ha),Spain,2003,19.1
+AR,EU,Artichokes,Area (cultivation/harvested/production) (1000 ha),"European Union (EU6-1958, EU9-1973, EU10-1981, EU12-1986, EU15-1995, EU25-2004, EU27-2007, EU28-2013, EU27-2020)",2003,82.2
+AR,FI,Artichokes,Area (cultivation/harvested/production) (1000 ha),Finland,2003,0
+AR,FR,Artichokes,Area (cultivation/harvested/production) (1000 ha),France,2003,10.5
+AR,HR,Artichokes,Area (cultivation/harvested/production) (1000 ha),Croatia,2003,0
+AR,IE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Ireland,2003,0
+AR,IS,Artichokes,Area (cultivation/harvested/production) (1000 ha),Iceland,2003,0
+AR,IT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Italy,2003,49.9
+AR,LT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Lithuania,2003,0
+AR,LU,Artichokes,Area (cultivation/harvested/production) (1000 ha),Luxembourg,2003,0
+AR,LV,Artichokes,Area (cultivation/harvested/production) (1000 ha),Latvia,2003,0
+AR,MT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Malta,2003,0
+AR,NL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Netherlands,2003,0
+AR,PL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Poland,2003,0
+AR,PT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Portugal,2003,0
+AR,RO,Artichokes,Area (cultivation/harvested/production) (1000 ha),Romania,2003,0
+AR,RS,Artichokes,Area (cultivation/harvested/production) (1000 ha),Serbia,2003,0
+AR,SE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Sweden,2003,0
+AR,SI,Artichokes,Area (cultivation/harvested/production) (1000 ha),Slovenia,2003,0
+AR,SK,Artichokes,Area (cultivation/harvested/production) (1000 ha),Slovakia,2003,0
+AR,TR,Artichokes,Area (cultivation/harvested/production) (1000 ha),Turkey,2003,2.2
+AR,UK,Artichokes,Area (cultivation/harvested/production) (1000 ha),United Kingdom,2003,0
+AR,XK,Artichokes,Area (cultivation/harvested/production) (1000 ha),Kosovo (under United Nations Security Council Resolution 1244/99),2003,0
+PR_HU_EU,AT,Artichokes,Harvested production in EU standard humidity (1000 t),Austria,2003,0
+PR_HU_EU,BA,Artichokes,Harvested production in EU standard humidity (1000 t),Bosnia and Herzegovina,2003,0
+PR_HU_EU,BE,Artichokes,Harvested production in EU standard humidity (1000 t),Belgium,2003,0
+PR_HU_EU,BG,Artichokes,Harvested production in EU standard humidity (1000 t),Bulgaria,2003,0
+PR_HU_EU,CY,Artichokes,Harvested production in EU standard humidity (1000 t),Cyprus,2003,2.7
+PR_HU_EU,CZ,Artichokes,Harvested production in EU standard humidity (1000 t),Czechia,2003,0
+PR_HU_EU,DE,Artichokes,Harvested production in EU standard humidity (1000 t),Germany (until 1990 former territory of the FRG),2003,0
+PR_HU_EU,DK,Artichokes,Harvested production in EU standard humidity (1000 t),Denmark,2003,0
+PR_HU_EU,EE,Artichokes,Harvested production in EU standard humidity (1000 t),Estonia,2003,0
+PR_HU_EU,EL,Artichokes,Harvested production in EU standard humidity (1000 t),Greece,2003,27.1
+PR_HU_EU,ES,Artichokes,Harvested production in EU standard humidity (1000 t),Spain,2003,306.5
+PR_HU_EU,EU,Artichokes,Harvested production in EU standard humidity (1000 t),"European Union (EU6-1958, EU9-1973, EU10-1981, EU12-1986, EU15-1995, EU25-2004, EU27-2007, EU28-2013, EU27-2020)",2003,775.1
+PR_HU_EU,FI,Artichokes,Harvested production in EU standard humidity (1000 t),Finland,2003,0
+PR_HU_EU,FR,Artichokes,Harvested production in EU standard humidity (1000 t),France,2003,49.8
+PR_HU_EU,HR,Artichokes,Harvested production in EU standard humidity (1000 t),Croatia,2003,0
+PR_HU_EU,IE,Artichokes,Harvested production in EU standard humidity (1000 t),Ireland,2003,0
+PR_HU_EU,IS,Artichokes,Harvested production in EU standard humidity (1000 t),Iceland,2003,0
+PR_HU_EU,IT,Artichokes,Harvested production in EU standard humidity (1000 t),Italy,2003,391.7
+PR_HU_EU,LT,Artichokes,Harvested production in EU standard humidity (1000 t),Lithuania,2003,0
+PR_HU_EU,LU,Artichokes,Harvested production in EU standard humidity (1000 t),Luxembourg,2003,0
+PR_HU_EU,LV,Artichokes,Harvested production in EU standard humidity (1000 t),Latvia,2003,0
+PR_HU_EU,MT,Artichokes,Harvested production in EU standard humidity (1000 t),Malta,2003,0.4
+PR_HU_EU,NL,Artichokes,Harvested production in EU standard humidity (1000 t),Netherlands,2003,0
+PR_HU_EU,PL,Artichokes,Harvested production in EU standard humidity (1000 t),Poland,2003,0
+PR_HU_EU,PT,Artichokes,Harvested production in EU standard humidity (1000 t),Portugal,2003,0
+PR_HU_EU,RO,Artichokes,Harvested production in EU standard humidity (1000 t),Romania,2003,0
+PR_HU_EU,RS,Artichokes,Harvested production in EU standard humidity (1000 t),Serbia,2003,0
+PR_HU_EU,SE,Artichokes,Harvested production in EU standard humidity (1000 t),Sweden,2003,0
+PR_HU_EU,SI,Artichokes,Harvested production in EU standard humidity (1000 t),Slovenia,2003,0
+PR_HU_EU,SK,Artichokes,Harvested production in EU standard humidity (1000 t),Slovakia,2003,0
+PR_HU_EU,TR,Artichokes,Harvested production in EU standard humidity (1000 t),Turkey,2003,28
+PR_HU_EU,UK,Artichokes,Harvested production in EU standard humidity (1000 t),United Kingdom,2003,0
+PR_HU_EU,XK,Artichokes,Harvested production in EU standard humidity (1000 t),Kosovo (under United Nations Security Council Resolution 1244/99),2003,0
+AR,AT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Austria,2002,0
+AR,BA,Artichokes,Area (cultivation/harvested/production) (1000 ha),Bosnia and Herzegovina,2002,0
+AR,BE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Belgium,2002,0
+AR,BG,Artichokes,Area (cultivation/harvested/production) (1000 ha),Bulgaria,2002,0
+AR,CY,Artichokes,Area (cultivation/harvested/production) (1000 ha),Cyprus,2002,0
+AR,CZ,Artichokes,Area (cultivation/harvested/production) (1000 ha),Czechia,2002,0
+AR,DE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Germany (until 1990 former territory of the FRG),2002,0
+AR,DK,Artichokes,Area (cultivation/harvested/production) (1000 ha),Denmark,2002,0
+AR,EE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Estonia,2002,0
+AR,EL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Greece,2002,2.7
+AR,ES,Artichokes,Area (cultivation/harvested/production) (1000 ha),Spain,2002,19.3
+AR,EU,Artichokes,Area (cultivation/harvested/production) (1000 ha),"European Union (EU6-1958, EU9-1973, EU10-1981, EU12-1986, EU15-1995, EU25-2004, EU27-2007, EU28-2013, EU27-2020)",2002,83.6
+AR,FI,Artichokes,Area (cultivation/harvested/production) (1000 ha),Finland,2002,0
+AR,FR,Artichokes,Area (cultivation/harvested/production) (1000 ha),France,2002,11.1
+AR,HR,Artichokes,Area (cultivation/harvested/production) (1000 ha),Croatia,2002,0
+AR,IE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Ireland,2002,0
+AR,IS,Artichokes,Area (cultivation/harvested/production) (1000 ha),Iceland,2002,0
+AR,IT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Italy,2002,50.5
+AR,LT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Lithuania,2002,0
+AR,LU,Artichokes,Area (cultivation/harvested/production) (1000 ha),Luxembourg,2002,0
+AR,LV,Artichokes,Area (cultivation/harvested/production) (1000 ha),Latvia,2002,0
+AR,MT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Malta,2002,0
+AR,NL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Netherlands,2002,0
+AR,PL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Poland,2002,0
+AR,PT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Portugal,2002,0
+AR,RO,Artichokes,Area (cultivation/harvested/production) (1000 ha),Romania,2002,0
+AR,RS,Artichokes,Area (cultivation/harvested/production) (1000 ha),Serbia,2002,0
+AR,SE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Sweden,2002,0
+AR,SI,Artichokes,Area (cultivation/harvested/production) (1000 ha),Slovenia,2002,0
+AR,SK,Artichokes,Area (cultivation/harvested/production) (1000 ha),Slovakia,2002,0
+AR,TR,Artichokes,Area (cultivation/harvested/production) (1000 ha),Turkey,2002,2.1
+AR,UK,Artichokes,Area (cultivation/harvested/production) (1000 ha),United Kingdom,2002,0
+AR,XK,Artichokes,Area (cultivation/harvested/production) (1000 ha),Kosovo (under United Nations Security Council Resolution 1244/99),2002,0
+PR_HU_EU,AT,Artichokes,Harvested production in EU standard humidity (1000 t),Austria,2002,0
+PR_HU_EU,BA,Artichokes,Harvested production in EU standard humidity (1000 t),Bosnia and Herzegovina,2002,0
+PR_HU_EU,BE,Artichokes,Harvested production in EU standard humidity (1000 t),Belgium,2002,0
+PR_HU_EU,BG,Artichokes,Harvested production in EU standard humidity (1000 t),Bulgaria,2002,0
+PR_HU_EU,CY,Artichokes,Harvested production in EU standard humidity (1000 t),Cyprus,2002,3
+PR_HU_EU,CZ,Artichokes,Harvested production in EU standard humidity (1000 t),Czechia,2002,0
+PR_HU_EU,DE,Artichokes,Harvested production in EU standard humidity (1000 t),Germany (until 1990 former territory of the FRG),2002,0
+PR_HU_EU,DK,Artichokes,Harvested production in EU standard humidity (1000 t),Denmark,2002,0
+PR_HU_EU,EE,Artichokes,Harvested production in EU standard humidity (1000 t),Estonia,2002,0
+PR_HU_EU,EL,Artichokes,Harvested production in EU standard humidity (1000 t),Greece,2002,27.5
+PR_HU_EU,ES,Artichokes,Harvested production in EU standard humidity (1000 t),Spain,2002,289.4
+PR_HU_EU,EU,Artichokes,Harvested production in EU standard humidity (1000 t),"European Union (EU6-1958, EU9-1973, EU10-1981, EU12-1986, EU15-1995, EU25-2004, EU27-2007, EU28-2013, EU27-2020)",2002,844.3
+PR_HU_EU,FI,Artichokes,Harvested production in EU standard humidity (1000 t),Finland,2002,0
+PR_HU_EU,FR,Artichokes,Harvested production in EU standard humidity (1000 t),France,2002,71.7
+PR_HU_EU,HR,Artichokes,Harvested production in EU standard humidity (1000 t),Croatia,2002,0
+PR_HU_EU,IE,Artichokes,Harvested production in EU standard humidity (1000 t),Ireland,2002,0
+PR_HU_EU,IS,Artichokes,Harvested production in EU standard humidity (1000 t),Iceland,2002,0
+PR_HU_EU,IT,Artichokes,Harvested production in EU standard humidity (1000 t),Italy,2002,455.7
+PR_HU_EU,LT,Artichokes,Harvested production in EU standard humidity (1000 t),Lithuania,2002,0
+PR_HU_EU,LU,Artichokes,Harvested production in EU standard humidity (1000 t),Luxembourg,2002,0
+PR_HU_EU,LV,Artichokes,Harvested production in EU standard humidity (1000 t),Latvia,2002,0
+PR_HU_EU,MT,Artichokes,Harvested production in EU standard humidity (1000 t),Malta,2002,0.2
+PR_HU_EU,NL,Artichokes,Harvested production in EU standard humidity (1000 t),Netherlands,2002,0
+PR_HU_EU,PL,Artichokes,Harvested production in EU standard humidity (1000 t),Poland,2002,0
+PR_HU_EU,PT,Artichokes,Harvested production in EU standard humidity (1000 t),Portugal,2002,0
+PR_HU_EU,RO,Artichokes,Harvested production in EU standard humidity (1000 t),Romania,2002,0
+PR_HU_EU,RS,Artichokes,Harvested production in EU standard humidity (1000 t),Serbia,2002,0
+PR_HU_EU,SE,Artichokes,Harvested production in EU standard humidity (1000 t),Sweden,2002,0
+PR_HU_EU,SI,Artichokes,Harvested production in EU standard humidity (1000 t),Slovenia,2002,0
+PR_HU_EU,SK,Artichokes,Harvested production in EU standard humidity (1000 t),Slovakia,2002,0
+PR_HU_EU,TR,Artichokes,Harvested production in EU standard humidity (1000 t),Turkey,2002,27
+PR_HU_EU,UK,Artichokes,Harvested production in EU standard humidity (1000 t),United Kingdom,2002,0
+PR_HU_EU,XK,Artichokes,Harvested production in EU standard humidity (1000 t),Kosovo (under United Nations Security Council Resolution 1244/99),2002,0
+AR,AT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Austria,2001,0
+AR,BA,Artichokes,Area (cultivation/harvested/production) (1000 ha),Bosnia and Herzegovina,2001,0
+AR,BE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Belgium,2001,0
+AR,BG,Artichokes,Area (cultivation/harvested/production) (1000 ha),Bulgaria,2001,0
+AR,CY,Artichokes,Area (cultivation/harvested/production) (1000 ha),Cyprus,2001,0
+AR,CZ,Artichokes,Area (cultivation/harvested/production) (1000 ha),Czechia,2001,0
+AR,DE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Germany (until 1990 former territory of the FRG),2001,0
+AR,DK,Artichokes,Area (cultivation/harvested/production) (1000 ha),Denmark,2001,0
+AR,EE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Estonia,2001,0
+AR,EL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Greece,2001,2.73
+AR,ES,Artichokes,Area (cultivation/harvested/production) (1000 ha),Spain,2001,18.7
+AR,EU,Artichokes,Area (cultivation/harvested/production) (1000 ha),"European Union (EU6-1958, EU9-1973, EU10-1981, EU12-1986, EU15-1995, EU25-2004, EU27-2007, EU28-2013, EU27-2020)",2001,81.93
+AR,FI,Artichokes,Area (cultivation/harvested/production) (1000 ha),Finland,2001,0
+AR,FR,Artichokes,Area (cultivation/harvested/production) (1000 ha),France,2001,11.2
+AR,HR,Artichokes,Area (cultivation/harvested/production) (1000 ha),Croatia,2001,0
+AR,IE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Ireland,2001,0
+AR,IS,Artichokes,Area (cultivation/harvested/production) (1000 ha),Iceland,2001,0
+AR,IT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Italy,2001,49.3
+AR,LT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Lithuania,2001,0
+AR,LU,Artichokes,Area (cultivation/harvested/production) (1000 ha),Luxembourg,2001,0
+AR,LV,Artichokes,Area (cultivation/harvested/production) (1000 ha),Latvia,2001,0
+AR,MT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Malta,2001,0
+AR,NL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Netherlands,2001,0
+AR,PL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Poland,2001,0
+AR,PT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Portugal,2001,0
+AR,RO,Artichokes,Area (cultivation/harvested/production) (1000 ha),Romania,2001,0
+AR,RS,Artichokes,Area (cultivation/harvested/production) (1000 ha),Serbia,2001,0
+AR,SE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Sweden,2001,0
+AR,SI,Artichokes,Area (cultivation/harvested/production) (1000 ha),Slovenia,2001,0
+AR,SK,Artichokes,Area (cultivation/harvested/production) (1000 ha),Slovakia,2001,0
+AR,TR,Artichokes,Area (cultivation/harvested/production) (1000 ha),Turkey,2001,2
+AR,UK,Artichokes,Area (cultivation/harvested/production) (1000 ha),United Kingdom,2001,0
+AR,XK,Artichokes,Area (cultivation/harvested/production) (1000 ha),Kosovo (under United Nations Security Council Resolution 1244/99),2001,0
+PR_HU_EU,AT,Artichokes,Harvested production in EU standard humidity (1000 t),Austria,2001,0
+PR_HU_EU,BA,Artichokes,Harvested production in EU standard humidity (1000 t),Bosnia and Herzegovina,2001,0
+PR_HU_EU,BE,Artichokes,Harvested production in EU standard humidity (1000 t),Belgium,2001,0
+PR_HU_EU,BG,Artichokes,Harvested production in EU standard humidity (1000 t),Bulgaria,2001,0
+PR_HU_EU,CY,Artichokes,Harvested production in EU standard humidity (1000 t),Cyprus,2001,3.1
+PR_HU_EU,CZ,Artichokes,Harvested production in EU standard humidity (1000 t),Czechia,2001,0
+PR_HU_EU,DE,Artichokes,Harvested production in EU standard humidity (1000 t),Germany (until 1990 former territory of the FRG),2001,0
+PR_HU_EU,DK,Artichokes,Harvested production in EU standard humidity (1000 t),Denmark,2001,0
+PR_HU_EU,EE,Artichokes,Harvested production in EU standard humidity (1000 t),Estonia,2001,0
+PR_HU_EU,EL,Artichokes,Harvested production in EU standard humidity (1000 t),Greece,2001,27.5
+PR_HU_EU,ES,Artichokes,Harvested production in EU standard humidity (1000 t),Spain,2001,277.4
+PR_HU_EU,EU,Artichokes,Harvested production in EU standard humidity (1000 t),"European Union (EU6-1958, EU9-1973, EU10-1981, EU12-1986, EU15-1995, EU25-2004, EU27-2007, EU28-2013, EU27-2020)",2001,830.8
+PR_HU_EU,FI,Artichokes,Harvested production in EU standard humidity (1000 t),Finland,2001,0
+PR_HU_EU,FR,Artichokes,Harvested production in EU standard humidity (1000 t),France,2001,61.2
+PR_HU_EU,HR,Artichokes,Harvested production in EU standard humidity (1000 t),Croatia,2001,0
+PR_HU_EU,IE,Artichokes,Harvested production in EU standard humidity (1000 t),Ireland,2001,0
+PR_HU_EU,IS,Artichokes,Harvested production in EU standard humidity (1000 t),Iceland,2001,0
+PR_HU_EU,IT,Artichokes,Harvested production in EU standard humidity (1000 t),Italy,2001,464.7
+PR_HU_EU,LT,Artichokes,Harvested production in EU standard humidity (1000 t),Lithuania,2001,0
+PR_HU_EU,LU,Artichokes,Harvested production in EU standard humidity (1000 t),Luxembourg,2001,0
+PR_HU_EU,LV,Artichokes,Harvested production in EU standard humidity (1000 t),Latvia,2001,0
+PR_HU_EU,MT,Artichokes,Harvested production in EU standard humidity (1000 t),Malta,2001,0.2
+PR_HU_EU,NL,Artichokes,Harvested production in EU standard humidity (1000 t),Netherlands,2001,0
+PR_HU_EU,PL,Artichokes,Harvested production in EU standard humidity (1000 t),Poland,2001,0
+PR_HU_EU,PT,Artichokes,Harvested production in EU standard humidity (1000 t),Portugal,2001,0
+PR_HU_EU,RO,Artichokes,Harvested production in EU standard humidity (1000 t),Romania,2001,0
+PR_HU_EU,RS,Artichokes,Harvested production in EU standard humidity (1000 t),Serbia,2001,0
+PR_HU_EU,SE,Artichokes,Harvested production in EU standard humidity (1000 t),Sweden,2001,0
+PR_HU_EU,SI,Artichokes,Harvested production in EU standard humidity (1000 t),Slovenia,2001,0
+PR_HU_EU,SK,Artichokes,Harvested production in EU standard humidity (1000 t),Slovakia,2001,0
+PR_HU_EU,TR,Artichokes,Harvested production in EU standard humidity (1000 t),Turkey,2001,26.5
+PR_HU_EU,UK,Artichokes,Harvested production in EU standard humidity (1000 t),United Kingdom,2001,0
+PR_HU_EU,XK,Artichokes,Harvested production in EU standard humidity (1000 t),Kosovo (under United Nations Security Council Resolution 1244/99),2001,0
+AR,AT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Austria,2000,0
+AR,BA,Artichokes,Area (cultivation/harvested/production) (1000 ha),Bosnia and Herzegovina,2000,0
+AR,BE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Belgium,2000,0
+AR,BG,Artichokes,Area (cultivation/harvested/production) (1000 ha),Bulgaria,2000,0
+AR,CY,Artichokes,Area (cultivation/harvested/production) (1000 ha),Cyprus,2000,0
+AR,CZ,Artichokes,Area (cultivation/harvested/production) (1000 ha),Czechia,2000,0
+AR,DE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Germany (until 1990 former territory of the FRG),2000,0
+AR,DK,Artichokes,Area (cultivation/harvested/production) (1000 ha),Denmark,2000,0
+AR,EE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Estonia,2000,0
+AR,EL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Greece,2000,2.82
+AR,ES,Artichokes,Area (cultivation/harvested/production) (1000 ha),Spain,2000,19.7
+AR,EU,Artichokes,Area (cultivation/harvested/production) (1000 ha),"European Union (EU6-1958, EU9-1973, EU10-1981, EU12-1986, EU15-1995, EU25-2004, EU27-2007, EU28-2013, EU27-2020)",2000,84.62
+AR,FI,Artichokes,Area (cultivation/harvested/production) (1000 ha),Finland,2000,0
+AR,FR,Artichokes,Area (cultivation/harvested/production) (1000 ha),France,2000,11.8
+AR,HR,Artichokes,Area (cultivation/harvested/production) (1000 ha),Croatia,2000,0
+AR,IE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Ireland,2000,0
+AR,IS,Artichokes,Area (cultivation/harvested/production) (1000 ha),Iceland,2000,0
+AR,IT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Italy,2000,50.3
+AR,LT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Lithuania,2000,0
+AR,LU,Artichokes,Area (cultivation/harvested/production) (1000 ha),Luxembourg,2000,0
+AR,LV,Artichokes,Area (cultivation/harvested/production) (1000 ha),Latvia,2000,0
+AR,MT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Malta,2000,0
+AR,NL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Netherlands,2000,0
+AR,PL,Artichokes,Area (cultivation/harvested/production) (1000 ha),Poland,2000,0
+AR,PT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Portugal,2000,0
+AR,RO,Artichokes,Area (cultivation/harvested/production) (1000 ha),Romania,2000,0
+AR,RS,Artichokes,Area (cultivation/harvested/production) (1000 ha),Serbia,2000,0
+AR,SE,Artichokes,Area (cultivation/harvested/production) (1000 ha),Sweden,2000,0
+AR,SI,Artichokes,Area (cultivation/harvested/production) (1000 ha),Slovenia,2000,0
+AR,SK,Artichokes,Area (cultivation/harvested/production) (1000 ha),Slovakia,2000,0
+AR,UK,Artichokes,Area (cultivation/harvested/production) (1000 ha),United Kingdom,2000,0
+AR,XK,Artichokes,Area (cultivation/harvested/production) (1000 ha),Kosovo (under United Nations Security Council Resolution 1244/99),2000,0
+PR_HU_EU,AT,Artichokes,Harvested production in EU standard humidity (1000 t),Austria,2000,0
+PR_HU_EU,BA,Artichokes,Harvested production in EU standard humidity (1000 t),Bosnia and Herzegovina,2000,0
+PR_HU_EU,BE,Artichokes,Harvested production in EU standard humidity (1000 t),Belgium,2000,0
+PR_HU_EU,BG,Artichokes,Harvested production in EU standard humidity (1000 t),Bulgaria,2000,0
+PR_HU_EU,CY,Artichokes,Harvested production in EU standard humidity (1000 t),Cyprus,2000,3.1
+PR_HU_EU,CZ,Artichokes,Harvested production in EU standard humidity (1000 t),Czechia,2000,0
+PR_HU_EU,DE,Artichokes,Harvested production in EU standard humidity (1000 t),Germany (until 1990 former territory of the FRG),2000,0
+PR_HU_EU,DK,Artichokes,Harvested production in EU standard humidity (1000 t),Denmark,2000,0
+PR_HU_EU,EE,Artichokes,Harvested production in EU standard humidity (1000 t),Estonia,2000,0
+PR_HU_EU,EL,Artichokes,Harvested production in EU standard humidity (1000 t),Greece,2000,29.74
+PR_HU_EU,ES,Artichokes,Harvested production in EU standard humidity (1000 t),Spain,2000,290.2
+PR_HU_EU,EU,Artichokes,Harvested production in EU standard humidity (1000 t),"European Union (EU6-1958, EU9-1973, EU10-1981, EU12-1986, EU15-1995, EU25-2004, EU27-2007, EU28-2013, EU27-2020)",2000,896.44
+PR_HU_EU,FI,Artichokes,Harvested production in EU standard humidity (1000 t),Finland,2000,0
+PR_HU_EU,FR,Artichokes,Harvested production in EU standard humidity (1000 t),France,2000,63.6
+PR_HU_EU,HR,Artichokes,Harvested production in EU standard humidity (1000 t),Croatia,2000,0
+PR_HU_EU,IE,Artichokes,Harvested production in EU standard humidity (1000 t),Ireland,2000,0
+PR_HU_EU,IS,Artichokes,Harvested production in EU standard humidity (1000 t),Iceland,2000,0
+PR_HU_EU,IT,Artichokes,Harvested production in EU standard humidity (1000 t),Italy,2000,512.9
+PR_HU_EU,LT,Artichokes,Harvested production in EU standard humidity (1000 t),Lithuania,2000,0
+PR_HU_EU,LU,Artichokes,Harvested production in EU standard humidity (1000 t),Luxembourg,2000,0
+PR_HU_EU,LV,Artichokes,Harvested production in EU standard humidity (1000 t),Latvia,2000,0
+PR_HU_EU,MT,Artichokes,Harvested production in EU standard humidity (1000 t),Malta,2000,0.2
+PR_HU_EU,NL,Artichokes,Harvested production in EU standard humidity (1000 t),Netherlands,2000,0
+PR_HU_EU,PL,Artichokes,Harvested production in EU standard humidity (1000 t),Poland,2000,0
+PR_HU_EU,PT,Artichokes,Harvested production in EU standard humidity (1000 t),Portugal,2000,0
+PR_HU_EU,RO,Artichokes,Harvested production in EU standard humidity (1000 t),Romania,2000,0
+PR_HU_EU,RS,Artichokes,Harvested production in EU standard humidity (1000 t),Serbia,2000,0
+PR_HU_EU,SE,Artichokes,Harvested production in EU standard humidity (1000 t),Sweden,2000,0
+PR_HU_EU,SI,Artichokes,Harvested production in EU standard humidity (1000 t),Slovenia,2000,0
+PR_HU_EU,SK,Artichokes,Harvested production in EU standard humidity (1000 t),Slovakia,2000,0
+PR_HU_EU,UK,Artichokes,Harvested production in EU standard humidity (1000 t),United Kingdom,2000,0
+PR_HU_EU,XK,Artichokes,Harvested production in EU standard humidity (1000 t),Kosovo (under United Nations Security Council Resolution 1244/99),2000,0
+AR,CY,Artichokes,Area (cultivation/harvested/production) (1000 ha),Cyprus,1999,0.2
+AR,ES,Artichokes,Area (cultivation/harvested/production) (1000 ha),Spain,1999,18.8
+AR,FR,Artichokes,Area (cultivation/harvested/production) (1000 ha),France,1999,12.8
+AR,IT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Italy,1999,51
+AR,PT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Portugal,1999,0
+PR,CY,Artichokes,Harvested production (1000 t),Cyprus,1999,3.5
+PR,ES,Artichokes,Harvested production (1000 t),Spain,1999,289.7
+PR,FR,Artichokes,Harvested production (1000 t),France,1999,73.5
+PR,IT,Artichokes,Harvested production (1000 t),Italy,1999,472.2
+PR,MT,Artichokes,Harvested production (1000 t),Malta,1999,0.2
+PR,PT,Artichokes,Harvested production (1000 t),Portugal,1999,0
+AR,CY,Artichokes,Area (cultivation/harvested/production) (1000 ha),Cyprus,1998,0.2
+AR,ES,Artichokes,Area (cultivation/harvested/production) (1000 ha),Spain,1998,18.5
+AR,FR,Artichokes,Area (cultivation/harvested/production) (1000 ha),France,1998,13.3
+AR,IT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Italy,1998,49.8
+PR,CY,Artichokes,Harvested production (1000 t),Cyprus,1998,3.2
+PR,ES,Artichokes,Harvested production (1000 t),Spain,1998,264.6
+PR,FR,Artichokes,Harvested production (1000 t),France,1998,83.8
+PR,IT,Artichokes,Harvested production (1000 t),Italy,1998,508.5
+PR,MT,Artichokes,Harvested production (1000 t),Malta,1998,0.2
+AR,CY,Artichokes,Area (cultivation/harvested/production) (1000 ha),Cyprus,1997,0.2
+AR,ES,Artichokes,Area (cultivation/harvested/production) (1000 ha),Spain,1997,18.5
+AR,FR,Artichokes,Area (cultivation/harvested/production) (1000 ha),France,1997,13.6
+AR,IT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Italy,1997,47.4
+PR,CY,Artichokes,Harvested production (1000 t),Cyprus,1997,2.5
+PR,ES,Artichokes,Harvested production (1000 t),Spain,1997,274.4
+PR,FR,Artichokes,Harvested production (1000 t),France,1997,74.8
+PR,IT,Artichokes,Harvested production (1000 t),Italy,1997,521.1
+PR,MT,Artichokes,Harvested production (1000 t),Malta,1997,0.3
+AR,CY,Artichokes,Area (cultivation/harvested/production) (1000 ha),Cyprus,1996,0.2
+AR,ES,Artichokes,Area (cultivation/harvested/production) (1000 ha),Spain,1996,19.1
+AR,FR,Artichokes,Area (cultivation/harvested/production) (1000 ha),France,1996,13.2
+AR,IT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Italy,1996,47.2
+PR,CY,Artichokes,Harvested production (1000 t),Cyprus,1996,2.9
+PR,ES,Artichokes,Harvested production (1000 t),Spain,1996,278.4
+PR,FR,Artichokes,Harvested production (1000 t),France,1996,74.6
+PR,IT,Artichokes,Harvested production (1000 t),Italy,1996,462
+PR,MT,Artichokes,Harvested production (1000 t),Malta,1996,0.2
+AR,CY,Artichokes,Area (cultivation/harvested/production) (1000 ha),Cyprus,1995,0.2
+AR,ES,Artichokes,Area (cultivation/harvested/production) (1000 ha),Spain,1995,18.4
+AR,FR,Artichokes,Area (cultivation/harvested/production) (1000 ha),France,1995,13.7
+AR,IT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Italy,1995,48.1
+PR,CY,Artichokes,Harvested production (1000 t),Cyprus,1995,2.8
+PR,ES,Artichokes,Harvested production (1000 t),Spain,1995,250.7
+PR,FR,Artichokes,Harvested production (1000 t),France,1995,62
+PR,IT,Artichokes,Harvested production (1000 t),Italy,1995,517.2
+PR,MT,Artichokes,Harvested production (1000 t),Malta,1995,0.8
+AR,CY,Artichokes,Area (cultivation/harvested/production) (1000 ha),Cyprus,1994,0.2
+AR,ES,Artichokes,Area (cultivation/harvested/production) (1000 ha),Spain,1994,21.8
+AR,FR,Artichokes,Area (cultivation/harvested/production) (1000 ha),France,1994,13.1
+AR,IT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Italy,1994,51.6
+PR,CY,Artichokes,Harvested production (1000 t),Cyprus,1994,3
+PR,ES,Artichokes,Harvested production (1000 t),Spain,1994,283.2
+PR,FR,Artichokes,Harvested production (1000 t),France,1994,70.2
+PR,IT,Artichokes,Harvested production (1000 t),Italy,1994,534.5
+PR,MT,Artichokes,Harvested production (1000 t),Malta,1994,0.8
+AR,CY,Artichokes,Area (cultivation/harvested/production) (1000 ha),Cyprus,1993,0.1
+AR,ES,Artichokes,Area (cultivation/harvested/production) (1000 ha),Spain,1993,23.6
+AR,FR,Artichokes,Area (cultivation/harvested/production) (1000 ha),France,1993,12.4
+AR,IT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Italy,1993,49.2
+PR,CY,Artichokes,Harvested production (1000 t),Cyprus,1993,3
+PR,ES,Artichokes,Harvested production (1000 t),Spain,1993,334.1
+PR,FR,Artichokes,Harvested production (1000 t),France,1993,67.1
+PR,IT,Artichokes,Harvested production (1000 t),Italy,1993,475.3
+PR,MT,Artichokes,Harvested production (1000 t),Malta,1993,0.6
+AR,CY,Artichokes,Area (cultivation/harvested/production) (1000 ha),Cyprus,1992,0.1
+AR,ES,Artichokes,Area (cultivation/harvested/production) (1000 ha),Spain,1992,25.6
+AR,FR,Artichokes,Area (cultivation/harvested/production) (1000 ha),France,1992,12.3
+AR,IT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Italy,1992,49
+PR,CY,Artichokes,Harvested production (1000 t),Cyprus,1992,3.4
+PR,ES,Artichokes,Harvested production (1000 t),Spain,1992,363.7
+PR,FR,Artichokes,Harvested production (1000 t),France,1992,71.7
+PR,IT,Artichokes,Harvested production (1000 t),Italy,1992,509.4
+PR,MT,Artichokes,Harvested production (1000 t),Malta,1992,0.1
+AR,CY,Artichokes,Area (cultivation/harvested/production) (1000 ha),Cyprus,1991,0.1
+AR,ES,Artichokes,Area (cultivation/harvested/production) (1000 ha),Spain,1991,27.2
+AR,FR,Artichokes,Area (cultivation/harvested/production) (1000 ha),France,1991,13.1
+AR,IT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Italy,1991,46.8
+PR,CY,Artichokes,Harvested production (1000 t),Cyprus,1991,2.9
+PR,ES,Artichokes,Harvested production (1000 t),Spain,1991,359.7
+PR,FR,Artichokes,Harvested production (1000 t),France,1991,89.9
+PR,IT,Artichokes,Harvested production (1000 t),Italy,1991,565.2
+PR,MT,Artichokes,Harvested production (1000 t),Malta,1991,0.3
+AR,CY,Artichokes,Area (cultivation/harvested/production) (1000 ha),Cyprus,1990,0.2
+AR,ES,Artichokes,Area (cultivation/harvested/production) (1000 ha),Spain,1990,31.1
+AR,FR,Artichokes,Area (cultivation/harvested/production) (1000 ha),France,1990,15
+AR,IT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Italy,1990,47.1
+PR,CY,Artichokes,Harvested production (1000 t),Cyprus,1990,2.9
+PR,ES,Artichokes,Harvested production (1000 t),Spain,1990,427.9
+PR,FR,Artichokes,Harvested production (1000 t),France,1990,96.9
+PR,IT,Artichokes,Harvested production (1000 t),Italy,1990,487
+PR,MT,Artichokes,Harvested production (1000 t),Malta,1990,0.3
+AR,CY,Artichokes,Area (cultivation/harvested/production) (1000 ha),Cyprus,1989,0.2
+AR,ES,Artichokes,Area (cultivation/harvested/production) (1000 ha),Spain,1989,31.8
+AR,FR,Artichokes,Area (cultivation/harvested/production) (1000 ha),France,1989,16.1
+AR,IT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Italy,1989,47.3
+PR,CY,Artichokes,Harvested production (1000 t),Cyprus,1989,3.5
+PR,ES,Artichokes,Harvested production (1000 t),Spain,1989,478.1
+PR,FR,Artichokes,Harvested production (1000 t),France,1989,97
+PR,IT,Artichokes,Harvested production (1000 t),Italy,1989,453.4
+PR,MT,Artichokes,Harvested production (1000 t),Malta,1989,0.3
+AR,CY,Artichokes,Area (cultivation/harvested/production) (1000 ha),Cyprus,1988,0.1
+AR,ES,Artichokes,Area (cultivation/harvested/production) (1000 ha),Spain,1988,28.5
+AR,FR,Artichokes,Area (cultivation/harvested/production) (1000 ha),France,1988,14.3
+AR,IT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Italy,1988,47.3
+PR,CY,Artichokes,Harvested production (1000 t),Cyprus,1988,3
+PR,ES,Artichokes,Harvested production (1000 t),Spain,1988,395.7
+PR,FR,Artichokes,Harvested production (1000 t),France,1988,90.5
+PR,IT,Artichokes,Harvested production (1000 t),Italy,1988,499.2
+PR,MT,Artichokes,Harvested production (1000 t),Malta,1988,0.3
+AR,CY,Artichokes,Area (cultivation/harvested/production) (1000 ha),Cyprus,1987,0.1
+AR,ES,Artichokes,Area (cultivation/harvested/production) (1000 ha),Spain,1987,25.3
+AR,FR,Artichokes,Area (cultivation/harvested/production) (1000 ha),France,1987,12.5
+AR,IT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Italy,1987,48.2
+PR,CY,Artichokes,Harvested production (1000 t),Cyprus,1987,3
+PR,ES,Artichokes,Harvested production (1000 t),Spain,1987,338
+PR,FR,Artichokes,Harvested production (1000 t),France,1987,36.6
+PR,IT,Artichokes,Harvested production (1000 t),Italy,1987,453.2
+PR,MT,Artichokes,Harvested production (1000 t),Malta,1987,0.3
+AR,ES,Artichokes,Area (cultivation/harvested/production) (1000 ha),Spain,1986,26
+AR,FR,Artichokes,Area (cultivation/harvested/production) (1000 ha),France,1986,14
+AR,IT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Italy,1986,48.2
+PR,ES,Artichokes,Harvested production (1000 t),Spain,1986,360.9
+PR,FR,Artichokes,Harvested production (1000 t),France,1986,70.8
+PR,IT,Artichokes,Harvested production (1000 t),Italy,1986,495.5
+AR,ES,Artichokes,Area (cultivation/harvested/production) (1000 ha),Spain,1985,27.6
+AR,FR,Artichokes,Area (cultivation/harvested/production) (1000 ha),France,1985,13.2
+AR,IT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Italy,1985,48
+PR,ES,Artichokes,Harvested production (1000 t),Spain,1985,268.9
+PR,FR,Artichokes,Harvested production (1000 t),France,1985,55.2
+PR,IT,Artichokes,Harvested production (1000 t),Italy,1985,417.6
+AR,ES,Artichokes,Area (cultivation/harvested/production) (1000 ha),Spain,1984,25.6
+AR,FR,Artichokes,Area (cultivation/harvested/production) (1000 ha),France,1984,14.3
+AR,IT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Italy,1984,50.3
+PR,ES,Artichokes,Harvested production (1000 t),Spain,1984,289.1
+PR,FR,Artichokes,Harvested production (1000 t),France,1984,78.7
+PR,IT,Artichokes,Harvested production (1000 t),Italy,1984,512.3
+AR,ES,Artichokes,Area (cultivation/harvested/production) (1000 ha),Spain,1983,23.5
+AR,FR,Artichokes,Area (cultivation/harvested/production) (1000 ha),France,1983,14.2
+AR,IT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Italy,1983,50.7
+PR,ES,Artichokes,Harvested production (1000 t),Spain,1983,257.9
+PR,FR,Artichokes,Harvested production (1000 t),France,1983,74
+PR,IT,Artichokes,Harvested production (1000 t),Italy,1983,526.8
+AR,ES,Artichokes,Area (cultivation/harvested/production) (1000 ha),Spain,1982,22.8
+AR,FR,Artichokes,Area (cultivation/harvested/production) (1000 ha),France,1982,14.5
+AR,IT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Italy,1982,50.8
+PR,ES,Artichokes,Harvested production (1000 t),Spain,1982,257
+PR,FR,Artichokes,Harvested production (1000 t),France,1982,87.7
+PR,IT,Artichokes,Harvested production (1000 t),Italy,1982,553.8
+AR,ES,Artichokes,Area (cultivation/harvested/production) (1000 ha),Spain,1981,23.9
+AR,FR,Artichokes,Area (cultivation/harvested/production) (1000 ha),France,1981,14.8
+AR,IT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Italy,1981,52.4
+PR,ES,Artichokes,Harvested production (1000 t),Spain,1981,248.3
+PR,FR,Artichokes,Harvested production (1000 t),France,1981,101.7
+PR,IT,Artichokes,Harvested production (1000 t),Italy,1981,523.7
+AR,ES,Artichokes,Area (cultivation/harvested/production) (1000 ha),Spain,1980,22
+AR,FR,Artichokes,Area (cultivation/harvested/production) (1000 ha),France,1980,14.7
+AR,IT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Italy,1980,52.4
+PR,ES,Artichokes,Harvested production (1000 t),Spain,1980,288.2
+PR,FR,Artichokes,Harvested production (1000 t),France,1980,104.3
+PR,IT,Artichokes,Harvested production (1000 t),Italy,1980,596.3
+AR,ES,Artichokes,Area (cultivation/harvested/production) (1000 ha),Spain,1979,25.9
+AR,FR,Artichokes,Area (cultivation/harvested/production) (1000 ha),France,1979,15.2
+AR,IT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Italy,1979,49.8
+PR,ES,Artichokes,Harvested production (1000 t),Spain,1979,296.4
+PR,FR,Artichokes,Harvested production (1000 t),France,1979,109.2
+PR,IT,Artichokes,Harvested production (1000 t),Italy,1979,422.3
+AR,ES,Artichokes,Area (cultivation/harvested/production) (1000 ha),Spain,1978,26.8
+AR,FR,Artichokes,Area (cultivation/harvested/production) (1000 ha),France,1978,14.9
+AR,IT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Italy,1978,51.4
+PR,ES,Artichokes,Harvested production (1000 t),Spain,1978,376.9
+PR,FR,Artichokes,Harvested production (1000 t),France,1978,101.7
+PR,IT,Artichokes,Harvested production (1000 t),Italy,1978,614
+AR,ES,Artichokes,Area (cultivation/harvested/production) (1000 ha),Spain,1977,24.5
+AR,FR,Artichokes,Area (cultivation/harvested/production) (1000 ha),France,1977,14.7
+AR,IT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Italy,1977,50.7
+PR,ES,Artichokes,Harvested production (1000 t),Spain,1977,250.7
+PR,FR,Artichokes,Harvested production (1000 t),France,1977,112.8
+PR,IT,Artichokes,Harvested production (1000 t),Italy,1977,578.2
+AR,ES,Artichokes,Area (cultivation/harvested/production) (1000 ha),Spain,1976,21.5
+AR,FR,Artichokes,Area (cultivation/harvested/production) (1000 ha),France,1976,15.6
+AR,IT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Italy,1976,51.8
+PR,ES,Artichokes,Harvested production (1000 t),Spain,1976,227
+PR,FR,Artichokes,Harvested production (1000 t),France,1976,96.6
+PR,IT,Artichokes,Harvested production (1000 t),Italy,1976,619.9
+AR,ES,Artichokes,Area (cultivation/harvested/production) (1000 ha),Spain,1975,19.3
+AR,FR,Artichokes,Area (cultivation/harvested/production) (1000 ha),France,1975,16.2
+AR,IT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Italy,1975,52.8
+PR,ES,Artichokes,Harvested production (1000 t),Spain,1975,226.4
+PR,FR,Artichokes,Harvested production (1000 t),France,1975,101.8
+PR,IT,Artichokes,Harvested production (1000 t),Italy,1975,627.5
+AR,ES,Artichokes,Area (cultivation/harvested/production) (1000 ha),Spain,1974,26.8
+AR,FR,Artichokes,Area (cultivation/harvested/production) (1000 ha),France,1974,17.6
+AR,IT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Italy,1974,56.2
+PR,ES,Artichokes,Harvested production (1000 t),Spain,1974,302.6
+PR,FR,Artichokes,Harvested production (1000 t),France,1974,129.4
+PR,IT,Artichokes,Harvested production (1000 t),Italy,1974,638.7
+AR,ES,Artichokes,Area (cultivation/harvested/production) (1000 ha),Spain,1973,26.1
+AR,FR,Artichokes,Area (cultivation/harvested/production) (1000 ha),France,1973,18.5
+AR,IT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Italy,1973,59.1
+PR,ES,Artichokes,Harvested production (1000 t),Spain,1973,298.3
+PR,FR,Artichokes,Harvested production (1000 t),France,1973,136.7
+PR,IT,Artichokes,Harvested production (1000 t),Italy,1973,598.7
+AR,ES,Artichokes,Area (cultivation/harvested/production) (1000 ha),Spain,1972,21.8
+AR,FR,Artichokes,Area (cultivation/harvested/production) (1000 ha),France,1972,19.2
+AR,IT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Italy,1972,62.3
+PR,ES,Artichokes,Harvested production (1000 t),Spain,1972,253.5
+PR,FR,Artichokes,Harvested production (1000 t),France,1972,156.4
+PR,IT,Artichokes,Harvested production (1000 t),Italy,1972,652.1
+AR,ES,Artichokes,Area (cultivation/harvested/production) (1000 ha),Spain,1971,24
+AR,FR,Artichokes,Area (cultivation/harvested/production) (1000 ha),France,1971,18.3
+AR,IT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Italy,1971,63.7
+PR,ES,Artichokes,Harvested production (1000 t),Spain,1971,222.2
+PR,FR,Artichokes,Harvested production (1000 t),France,1971,136.1
+PR,IT,Artichokes,Harvested production (1000 t),Italy,1971,734.1
+AR,ES,Artichokes,Area (cultivation/harvested/production) (1000 ha),Spain,1970,22.4
+AR,FR,Artichokes,Area (cultivation/harvested/production) (1000 ha),France,1970,18.1
+AR,IT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Italy,1970,63.4
+PR,ES,Artichokes,Harvested production (1000 t),Spain,1970,220.4
+PR,FR,Artichokes,Harvested production (1000 t),France,1970,125.8
+PR,IT,Artichokes,Harvested production (1000 t),Italy,1970,670.8
+AR,ES,Artichokes,Area (cultivation/harvested/production) (1000 ha),Spain,1969,13.2
+AR,FR,Artichokes,Area (cultivation/harvested/production) (1000 ha),France,1969,17.1
+AR,IT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Italy,1969,62.2
+PR,ES,Artichokes,Harvested production (1000 t),Spain,1969,101.1
+PR,FR,Artichokes,Harvested production (1000 t),France,1969,140.3
+PR,IT,Artichokes,Harvested production (1000 t),Italy,1969,637.2
+AR,ES,Artichokes,Area (cultivation/harvested/production) (1000 ha),Spain,1968,13.6
+AR,FR,Artichokes,Area (cultivation/harvested/production) (1000 ha),France,1968,16.4
+AR,IT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Italy,1968,61.4
+PR,ES,Artichokes,Harvested production (1000 t),Spain,1968,114.7
+PR,FR,Artichokes,Harvested production (1000 t),France,1968,132.1
+PR,IT,Artichokes,Harvested production (1000 t),Italy,1968,563.2
+AR,ES,Artichokes,Area (cultivation/harvested/production) (1000 ha),Spain,1967,14.5
+AR,FR,Artichokes,Area (cultivation/harvested/production) (1000 ha),France,1967,17.2
+AR,IT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Italy,1967,62.5
+PR,ES,Artichokes,Harvested production (1000 t),Spain,1967,129.2
+PR,FR,Artichokes,Harvested production (1000 t),France,1967,136.5
+PR,IT,Artichokes,Harvested production (1000 t),Italy,1967,631.2
+AR,ES,Artichokes,Area (cultivation/harvested/production) (1000 ha),Spain,1966,14.1
+AR,FR,Artichokes,Area (cultivation/harvested/production) (1000 ha),France,1966,18.1
+AR,IT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Italy,1966,59.6
+PR,ES,Artichokes,Harvested production (1000 t),Spain,1966,125.8
+PR,FR,Artichokes,Harvested production (1000 t),France,1966,113.3
+PR,IT,Artichokes,Harvested production (1000 t),Italy,1966,580.1
+AR,ES,Artichokes,Area (cultivation/harvested/production) (1000 ha),Spain,1965,14.2
+AR,FR,Artichokes,Area (cultivation/harvested/production) (1000 ha),France,1965,16.4
+AR,IT,Artichokes,Area (cultivation/harvested/production) (1000 ha),Italy,1965,55.5
+PR,ES,Artichokes,Harvested production (1000 t),Spain,1965,123.7
+PR,FR,Artichokes,Harvested production (1000 t),France,1965,140.2
+PR,IT,Artichokes,Harvested production (1000 t),Italy,1965,542.1
+AR,ES,Artichokes,Area (cultivation/harvested/production) (1000 ha),Spain,1964,13.1
+PR,ES,Artichokes,Harvested production (1000 t),Spain,1964,109.4
