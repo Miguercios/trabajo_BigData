@@ -61,9 +61,8 @@ Trabajo elaborado para la asignatura "Programación y manejo de datos en la era 
 
 <hr class="linea-red">
 
-# I. Introducción {.tabset}
+# I. Introducción 
   
-## ..
 En este trabajo haremos un estudio sobre la **producción de alcachofas en Europa y España**.  
   
 Explorando la base de datos de **Eurostat** di con unos datos completos y detallados de la producción agrícola en Europa, de modo que me decanté por ellos. La elección de este tema ha sido motivada por la disponibilidad de un dataset lo suficientemente detallado, además de que me gustan las alcachofas. 
@@ -76,11 +75,8 @@ Opté por centrarme en un solo producto, que han sido las alcachofas. Aunque los
 knitr::include_graphics('./imagenes/alcachofa2.jpg')
 ```
 
-## .
 
-Sección añadida para asegurar la correcta ejecución del mismo gráfico más abajo.   
-
-```{r, eval= TRUE, echo = FALSE }
+```{r, eval= TRUE, echo = FALSE, include = FALSE }
 #Este código está aquí porque si no no funciona más abajo. No le encuentro explicación
 
 # Cargamos datos y geometrías
